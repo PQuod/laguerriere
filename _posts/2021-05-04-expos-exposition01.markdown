@@ -7,3 +7,6 @@ categories: expositions
 [Rémédios Fargeat](/category/artistes/) & [Constance Hinfray](/category/artistes/)  
 Du 04 au 13 juin  
 Visites sur RDV : laguerrierecontact@protonmail.com
+
+
+Plus d'infos à venir !
