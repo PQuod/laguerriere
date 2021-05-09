@@ -1,0 +1,33 @@
+<nav>
+  <!-- Le Menu -->
+  <ul>
+  <!-- La boucle pour faire apparaître toutes les catégories existantes -->
+  {% for category in site.categories %}
+      <li>
+        <!-- le fait que chaque catégorie soit un lien vers la page qui regroupera tous les posts de cette catégorie (_layouts/category.html) -->
+        <a href="/category/{{ category[0] | slugify }}">
+            <!-- Là j'ai fait un peu du shlag code pour rendre les noms des catégories plus lisibles (genre que ça soit "Qui sommes nous ?" qui apparaisse et non pas "quisommesnous" et que la catégorie sur la page de laquelle on se trouve prenne la classe .active et qu'elle ait donc un style différent) Y'a moyen de faire plus propre, je cleanerai ça quand on aura le temps -->
+            {% if category[0] == 'artistes' %}
+            <span {% if page.url == "/category/artistes/index.html" %}class="active"{% endif %}>Les artistes</span>
+            {% elsif category[0] == 'expositions' %}
+            <span {% if page.url == "/category/expositions/index.html" %}class="active"{% endif %}>Les expositions</span>
+            {% elsif category[0] == 'ressources' %}
+            <span {% if page.url == "/category/ressources/index.html" %}class="active"{% endif %}>Les ressources</span>
+            {% elsif category[0] == 'quisommesnous' %}
+            <span {% if page.url == "/category/quisommesnous/index.html" %}class="active"{% endif %}>Qui sommes-nous ?</span>
+            {% elsif category[0] == 'soutien' %}
+            <span {% if page.url == "/category/soutien/index.html" %}class="active"{% endif %}>Nous soutenir</span>
+            {% endif %}
+        </a>
+      </li>
+  {% endfor %}
+  </ul>
+
+  <!-- Les infos pratiques -->
+  <p>
+  Galerie La Guerrière<br>
+  28, allée Bisson <br>35000 Rennes <br>
+  laguerrierecontact@protonmail.com
+  </p>
+  
+</nav>

@@ -1,0 +1,17 @@
+docs_list_title: Menu nav
+docs:
+
+- title: Les artistes
+  url: /artistes/
+
+- title: Les Expositions
+  url: /expositions/
+
+- title: Les Ressources
+  url: /ressources/
+  
+- title: Qui Sommes-nous ?
+  url: /about/
+  
+- title: Nous soutenir
+  url: /soutien/

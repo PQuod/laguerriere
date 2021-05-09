@@ -1,0 +1,22 @@
+---
+layout: home
+---
+
+<!-- L'affichage des différents posts dans la colonne du milieu. La page appelle les posts qui appartiennent à la catégorie sur laquelle on a cliqué dans le menu -->
+
+<div>
+  <!-- La boucle pour que chaque post de la catégorie recherchée apparaisse -->
+    {% for post in site.categories[page.category] %}
+      <article>
+        <!--Le titre du post -->
+        <h2>{{ post.title }}</h2>
+
+        <!-- Le contenu du post -->
+        <div class="post-content">
+          {{ post.content }}
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+
+<!-- En gros, la structure du site c'est default.html > home.html (pour modifier les structures des différentes colonnes) > category.html (pour modifier ce qui s'affiche au milieu en suivant les différents liens du menu) -->

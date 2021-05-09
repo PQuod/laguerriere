@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<!--Les 3 colonnes -->
+<div class="home">
+
+  <!-- Colonne gauche (logo) -->
+  <div class="logo">
+    <a rel="author" href="{{ "/" | relative_url }}">
+      <img src="/imgs/logocadre.png" alt="logo-guerriere" />
+    </a>
+  </div>
+
+  <!--colonne milieu (contenu des posts), pour modifier l'affichage des différents posts dans leurs encadrés : _layouts/category.html -->
+  <div class="home-contenu">
+    {{ content | markdownify }}
+  </div>
+
+  <!-- colonne droite (menu + infos pratiques), pour les modifier, _includes/nav.html -->
+  {%- include nav.html -%}
+</div>
+
+<!-- En gros, la structure du site c'est default.html > home.html (pour modifier les structures des différentes colonnes) > category.html (pour modifier ce qui s'affiche au milieu en suivant les différents liens du menu) -->

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'fr' }}">
+<!-- Inclure la <head> (pour modifier <head>, _includes/head.html) -->
+  {%- include head.html -%}
+
+  <body>
+    <!-- Inclure le header ("La Guerrière") (pour modifier le <header>, _includes/header.html)-->
+    {%- include header.html -%}
+
+    <!-- Affichage de tout le contenu SOUS le header. Ce contenu est dans _layouts/home.html)-->
+    <main aria-label="Content">
+      <div id="content">
+        {{ content }}
+      </div>
+    </main>
+
+    <!-- Inclure le footer (Infos défilantes) (pour modifier le <footer>, _includes/footer.html)-->
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
+
+<!-- En gros, la structure du site c'est default.html > home.html (pour modifier les structures des différentes colonnes) > category.html (pour modifier ce qui s'affiche au milieu en suivant les différents liens du menu) -->

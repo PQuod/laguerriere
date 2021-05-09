@@ -1,0 +1,160 @@
+/* Les variables */
+:root{
+--font-size:1em;
+--line-height:2em;
+--background-color: #fff6ee;
+--rouge: #ff204e;
+--bleu: #6c76f6;
+--rose:#ff5b8d;
+--font-family: 'Almendra', serif;
+}
+
+/* Général */
+
+a{
+  text-decoration: underline;
+  text-decoration-color: var(--rouge);
+  font-weight: bold;
+  color:var(--bleu);
+}
+
+p{
+color: var(--bleu);
+margin-bottom:var(--line-height);
+}
+
+ol, ul, li{
+	list-style:none;
+}
+
+
+body{
+background-color:var(--background-color);
+line-height:var(--line-height);
+font-family:var(--font-family);
+}
+
+/* Header */
+
+header{
+	margin-top:var(--line-height);
+	margin-bottom:var(--line-height);
+	text-align:center;
+}
+
+.guerriere{
+	font-size:calc(var(--font-size)*3);
+	font-weight:bold;
+	font-style:italic;
+	color:var(--rose);
+	text-shadow: 0 0px 12px var(--bleu), 0 0px 12px var(--bleu), 0 0px 12px var(--bleu);
+}
+
+.guerriere a{
+color:var(--rose);
+text-decoration:none;
+margin-bottom:var(--line-height);
+}
+
+/* Le contenu */
+
+.home{
+	margin:auto;
+	margin-bottom:var(--line-height);
+	width:100%;
+	display: grid;
+	grid-template-columns: 25% 40% 25%;
+	grid-gap:30px;
+}
+
+/* Colonne gauche (logo) */
+
+.logo{
+	padding-left:15px;
+}
+
+.logo img{
+	width:100%;
+	transition: transform .7s ease-in-out;
+}
+
+.logo img:hover{
+	transform: rotate(360deg);
+}
+
+/* Colonne milieu (posts) */
+
+.home-contenu{
+	margin-bottom:var(--line-height);
+}
+
+
+article{
+	border: thin dotted var(--rose);
+	padding:20px;
+	margin:10px;
+	color: var(--bleu);
+}
+
+/* Colonne droite (menu) */
+    /*Le menu */
+    nav ul{
+    	padding:20px;
+    	margin:10px;
+    	border: thin dotted var(--rose);
+    }
+
+    .active{
+    	color:var(--rouge);
+    	text-decoration:none;
+    }
+
+    /* Les infos pratiques */
+    nav p{
+    	margin-top:50%;
+    	padding-left:30px;
+    	font-weight: 700;
+        font-style: italic;
+        color: var(--rose);
+        text-shadow: 0 0px 12px var(--bleu);
+        transform: rotate(20deg);
+    }
+
+/* Le footer */
+
+footer{
+border-top: thin dotted var(--rose);
+	position:fixed;
+	width:100%;
+	height:5%;
+	bottom:0;
+	background-color:var(--background-color);
+}
+
+
+.rtl{
+	overflow:hidden;
+}
+
+.actu{
+display:inline-block;
+white-space: nowrap;
+animation: defilement-rtl 30s infinite linear;
+color: var(--rose);
+text-shadow: 0 0px 12px var(--bleu);
+padding-right: 2em;                   
+padding-left: 100%;
+margin-top:0.5em;
+font-weight:700;
+}
+
+@keyframes defilement-rtl {
+  0% {
+    -webkit-transform: translate(0);
+    transform: translate(0);
+  }
+  100% {
+    -webkit-transform: translate(-100%);
+    transform: translate(-100%);
+  }
+}
