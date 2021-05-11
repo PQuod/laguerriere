@@ -127,6 +127,8 @@ a { text-decoration: underline; text-decoration-color: var(--rouge); font-weight
 
 p { color: var(--bleu); margin-bottom: var(--line-height); }
 
+p:last-child { margin-bottom: 0px; /* Pour que le dernier paragraphe de chaque article n'ait pas de marge en-dessous */ }
+
 ol, ul, li { list-style: none; }
 
 img { width: 100%; }
@@ -154,6 +156,8 @@ header { margin-top: var(--line-height); margin-bottom: var(--line-height); text
 .home-contenu { margin-bottom: var(--line-height); }
 
 article { border: thin dotted var(--rose); padding: 20px; margin: 10px; color: var(--bleu); }
+
+article h2 { margin-bottom: calc(var(--line-height)*0.5); }
 
 /* Colonne droite (menu) */
 /*Le menu */
