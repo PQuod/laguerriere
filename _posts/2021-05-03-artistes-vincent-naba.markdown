@@ -4,6 +4,8 @@ title:  "Vincent Naba"
 date:   2021-05-03 14:34:08 +0200
 categories: artistes
 ---
+[Site internet](https://vincentnaba.hotglue.me/) / [Instagram d'art](https://www.instagram.com/vincent.naba/) / [Instagram de cartomancie](https://www.instagram.com/scorpion.bleu/)
+
 **Vincent Naba** est artiste et cartomancien.ne.  
 Né.e aux Ulis en 1991, c’est aux Beaux-Arts d’Angoulême qu’iel décroche son diplôme.  
 Aujourd’hui, installé.e à Marseille, Vincent s’exprime à travers la peinture, le dessin, l’installation, les tirages de cartes et le soin à l’autre.  
