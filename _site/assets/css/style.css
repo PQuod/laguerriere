@@ -129,6 +129,8 @@ p { color: var(--bleu); margin-bottom: var(--line-height); }
 
 ol, ul, li { list-style: none; }
 
+img { width: 100%; }
+
 body { background-color: var(--background-color); line-height: var(--line-height); font-family: var(--font-family); }
 
 /* Header */
