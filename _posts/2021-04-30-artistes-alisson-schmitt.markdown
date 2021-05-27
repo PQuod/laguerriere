@@ -11,5 +11,5 @@ categories: artistes
 À travers l'installation, la vidéo et la performance, le travail d'**Alisson Schmitt** tente des rapprochements entre plusieurs histoires : des histoires qui la traverse, des histoires collectives, mais avant tout celle des corps qui les accompagne.  
 
 
-![visuel guerrière](https://user-images.githubusercontent.com/75531856/119822872-70e0a400-bef4-11eb-8f6c-c8e4a7825bee.jpg)
+![visuel guerrière](/imgs/aschmitt.jpg)
 image extraite de la vidéo Karmamousse, 2019
