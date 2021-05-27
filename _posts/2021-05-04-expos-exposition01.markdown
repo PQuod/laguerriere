@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Expo 01"
+title:  "One Million Haunted Queendom"
 date:   2021-05-04 14:34:08 +0200
 categories: expositions
 ---
