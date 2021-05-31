@@ -2,13 +2,11 @@
 layout: page
 ---
 La Guerrière est une galerie indépendante gérée par *Charlotte Beltzung, Alix Desaubliaux, Lucie Desaubliaux* et *Inès Dobelle* et située à Rennes. Espace d'exposition et de résidence, elle propose des expositions temporaires pour des binômes ou des trinômes d'artistes.
-U+000a
-U+000a
+
+
 La Guerrière souhaite mettre en valeur le travail, la production et les intérêts d'artistes contemporain·e·s·x aussi bien locales que nationales. Qu'elles soient femmes, racisées, personnes trans, intersexes, non binaires, gender fluid ou tout simplement peu représenté·e·s, que leur travail parle d'intersectionnalité, témoigne d'un activisme marquant ou exprime une sensibilité personnelle, la Guerrière souhaite offrir ses armes afin de pouvoir, à sa mesure, proposer une visibilité, un accompagnement critique et solidaire ainsi que des moments de partage et d'échange autour des œuvres et des artistes invité·e·s·x.
-U+000a
-U+000a
+
 La Guerrière cherche actuellement des soutiens financiers qui seront entièrement reversés aux artistes invité·e·s·x.
-U+000a
-U+000a
+
 <a>Écrivez-nous : laguerrierecontact /a\ protonmail.com</a>
 
