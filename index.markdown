@@ -10,3 +10,15 @@ La Guerrière cherche actuellement des soutiens financiers qui seront entièreme
 
 <a>Écrivez-nous : laguerrierecontact /a\ protonmail.com</a>
 
+<form
+  action="https://formspree.io/f/mdoyglpg"
+  method="POST"
+>
+  <label>
+    Inscrivez-vous à notre newsletter :<br>
+    <input type="email" name="_replyto">
+  </label>
+
+  <button type="submit">Send</button>
+</form>
+
