@@ -8,9 +8,13 @@ categories: expositions
 [Rémédios Fargeat](/category/artistes/) & [Constance Hinfray](/category/artistes/)  
 
 
-Vernissage le **jeudi 03 juin** à ??h.  
+Vernissage le **jeudi 03 juin** à 18h.  
 Exposition visible du 04 au 13 juin  
 Visites sur RDV : laguerrierecontact@protonmail.com
 
+One Million Queendoms est une exposition sur les traces ectoplasmiques d’un.e avatars habitant un autre espace, une autre dimension.
+Remedios Fargeat et Constance Hinfray tissent à deux des récits de contre-soirées hantées par des âmes queers et proposent dessins, broderies, pièces sonores et performance qui relatent des bribes d’existences fugaces, entre deux mondes,
+ambiance fin de soirée.
 
-Plus d'infos à venir !
+[Lien de l'évènement facebook](
+https://fb.me/e/1usvGLxcC)
