@@ -9,7 +9,7 @@ categories: quisommesnous
   method="POST"
 >
   <label>
-    Inscrivez ici votre e-mail si vous souhaitez recevoir notre newsletter:
+    Inscrivez ici votre e-mail si vous souhaitez recevoir notre newsletter:<br>
     <input type="email" name="_replyto">
   </label>
 
