@@ -8,7 +8,7 @@ categories: soutien
 Jusqu'au 7 juillet 2021, nous lançons un appel à soutien via le lien ci-dessous : 
 
 
-https://fr.ulule.com/galerie-la-guerriere/?
+[https://fr.ulule.com/galerie-la-guerriere/?](https://fr.ulule.com/galerie-la-guerriere/?)
 
 
 Votre contribution, même symbolique, permettra à La Guerrière de pérenniser ses actions et de s'engager aux côtés des artistes de sa programmation. 
