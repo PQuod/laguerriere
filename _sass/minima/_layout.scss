@@ -170,3 +170,20 @@ font-weight:700;
     transform: translate(-100%);
   }
 }
+
+@media screen and (max-width: 900px)
+{
+    .home{
+	    display:auto;
+	}
+	.logo{
+	width: 25%;
+    margin: auto;
+	}
+	nav{
+		text-align:center;
+	}
+	nav p{
+		display:none;
+	}
+}
