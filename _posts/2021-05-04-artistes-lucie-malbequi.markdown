@@ -4,7 +4,7 @@ title:  "Lucie Malbequi"
 date:   2021-05-04 14:34:08 +0200
 categories: artistes
 ---
-[Site](http://luciemalbequi.fr) / [Instagram](https://www.instagram.com/luciemalbequi/) / [Projet d'asso](table.click) / [Instagram du projet d'asso](https://www.instagram.com/projetstable)
+[Site](http://luciemalbequi.fr) / [Instagram](https://www.instagram.com/luciemalbequi/) / [Projet d'asso](http://table.click) / [Instagram du projet d'asso](https://www.instagram.com/projetstable)
 
 Je m'appelle **Lucie Malbéqui** et je suis née dans le sud ouest de la France où j’ai grandi entre la côte d’argent et la côte basque. Diplômée à l'ENSBA Lyon, j'habite aujourd'hui à Paris et travaille là où le vent me mène.  
 
