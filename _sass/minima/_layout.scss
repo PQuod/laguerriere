@@ -97,8 +97,12 @@ margin-bottom:var(--line-height);
 }
 
 .grid-carreaux{
-	display: grid;
+display: grid;
 grid-template-columns: 30% 30% 30%;
+}
+
+.miniature{
+width: 95%;
 }
 
 article{
@@ -108,15 +112,6 @@ article{
 	color: var(--bleu);
 }
 
-.titre-hover{
-	display:none;
-
-}
-
-.titre-hover :hover{
-	display:inline-block;
-text-align:center;
-}
 
 /* Colonne droite (menu) */
     /*Le menu */
