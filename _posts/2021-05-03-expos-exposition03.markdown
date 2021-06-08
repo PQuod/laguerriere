@@ -5,7 +5,7 @@ date:   2021-05-03 13:34:08 +0200
 categories: expositions
 ---
 
-[Lucie Malbéqui](/category/artistes/), [Lucas Tortolano](/categry/artistes) & [Alisson Schmitt](/category/artistes/)
+[Lucie Malbéqui]({% post_url 2021-05-04-artistes-lucie-malbequi %}), [Lucas Tortolano]({% post_url 2021-04-29-artistes-lucas-tortolano %}) & [Alisson Schmitt]({% post_url 2021-04-30-artistes-alisson-schmitt %})
 
 
 Vernissage le **jeudi 02 septembre** à ??h.  
