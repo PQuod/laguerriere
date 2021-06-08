@@ -100,6 +100,7 @@ margin-bottom:var(--line-height);
 	display: grid;
 grid-template-columns: 30% 30% 30%;
 }
+
 article{
 	border: thin dotted var(--rose);
 	padding:20px;
@@ -107,8 +108,14 @@ article{
 	color: var(--bleu);
 }
 
-article h2{
-  margin-bottom:calc(var(--line-height)*0.5);
+.titre-hover{
+	display:none;
+
+}
+
+.titre-hover :hover{
+	display:inline-block;
+text-align:center;
 }
 
 /* Colonne droite (menu) */
