@@ -5,7 +5,7 @@ date:   2021-05-03 14:34:08 +0200
 categories: expositions
 ---
 
-[Claire Guetta](/category/artistes/) & [Vincent Naba](/category/artistes/)
+[Claire Guetta]({% post_url 2021-05-06-artistes-claire-guetta %}) & [Vincent Naba]({% post_url 2021-05-03-artistes-vincent-naba %})
 
 
 Vernissage le **jeudi 24 juin** à ??h.  
