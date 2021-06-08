@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Lucie Malbequi"
+title:  "Lucie Malbéqui"
 date:   2021-05-04 14:34:08 +0200
 categories: artistes
+img: /imgs/l_malbequi.gif
+img_alt: "Photo Lucie Malbéqui"
 ---
 [Site](http://luciemalbequi.fr) / [Instagram](https://www.instagram.com/luciemalbequi/) / [Projet d'asso](http://table.click) / [Instagram du projet d'asso](https://www.instagram.com/projetstable)
 
