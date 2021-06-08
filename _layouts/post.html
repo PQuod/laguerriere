@@ -2,12 +2,14 @@
 layout: home
 ---
 
-<!-- Ca je m'en suis pas servie parce qu'on ne met pas de lien sur les posts pour que le post s'affiche en mode "unique" (pour l'instant) -->
-<div class="home">
+<div>
+      <article>
+        <!--Le titre du post -->
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 
-<div class="home-contenu">
-   <div class="post-content-main" >
-    {{ content }}
-  </div>
-</div>
+        <!-- Le contenu du post -->
+        <div class="post-content">
+          {{ post.content }}
+        </div>
+      </article>
 </div>
