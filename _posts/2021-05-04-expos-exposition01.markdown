@@ -5,7 +5,7 @@ date:   2021-05-04 14:34:08 +0200
 categories: expositions
 ---
 
-[Rémédios Fargeat](/category/artistes/) & [Constance Hinfray](/category/artistes/)  
+[Rémédios Fargeat]({% post_url 2021-05-08-artistes-remedios-fargeat.markdown %}) & [Constance Hinfray]({% post_url 2021-05-05-artistes-constance-hinfray.markdown %})  
 
 
 Vernissage le **jeudi 03 juin** à 18h.  
