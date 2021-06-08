@@ -3,7 +3,7 @@ layout: post
 title:  "Gabrielle Decazes"
 date:   2021-05-09 14:34:08 +0200
 categories: artistes
-img: /imgs/g_decazes.jpg
+img: /imgs/mini_g_decazes.jpg
 img_alt: "Photo Gabrielle Decazes"
 ---
 [Site internet](http://base.ddab.org/gabrielle-decazes) / [Instagram](https://www.instagram.com/gabrielledecazes/)
