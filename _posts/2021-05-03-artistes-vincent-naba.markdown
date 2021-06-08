@@ -3,6 +3,8 @@ layout: post
 title:  "Vincent Naba"
 date:   2021-05-03 14:34:08 +0200
 categories: artistes
+img: /imgs/vnaba.jpg
+img_alt: "Photo Vincent Naba"
 ---
 [Site internet](https://vincentnaba.hotglue.me/) / [Instagram d'art](https://www.instagram.com/vincent.naba/) / [Instagram de cartomancie](https://www.instagram.com/scorpion.bleu/)
 
