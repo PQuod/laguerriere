@@ -3,6 +3,8 @@ layout: post
 title:  "Constance Hinfray"
 date:   2021-05-05 14:34:08 +0200
 categories: artistes
+img: /imgs/c_hinfray.jpg
+img_alt: "Photo Constance Hinfray"
 ---
 [Site](http://cargocollective.com/ConstanceHinfray)
 
