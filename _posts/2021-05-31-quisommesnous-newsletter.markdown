@@ -3,6 +3,8 @@ layout: post
 title:  "S'abonner à la Newletter"
 date:   2021-05-31 14:34:08 +0200
 categories: quisommesnous
+img: /imgs/mini_news.jpg
+img_alt: "Newsletter"
 ---
 <form
   action="https://formspree.io/f/mdoyglpg"
