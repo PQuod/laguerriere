@@ -3,6 +3,8 @@ layout: post
 title:  "Remedios Fargeat"
 date:   2021-05-08 14:34:08 +0200
 categories: artistes
+img: /imgs/r_fargeat.jpg
+img_alt: "Photo Remedios Fargeat"
 ---
 [Blog](http://lemondesouterrain.tumblr.com) / [Instagram](https://www.instagram.com/fake_deep_girl/)
 
