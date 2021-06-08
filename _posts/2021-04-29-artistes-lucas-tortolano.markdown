@@ -3,6 +3,8 @@ layout: post
 title:  "Lucas Tortolano"
 date:   2021-04-29 14:34:08 +0200
 categories: artistes
+img: /imgs/mini_l_tortolano.jpg
+img_alt: "Photo Lucas Tortolano"
 ---
 [Instagram](https://www.instagram.com/onalotrot/)
 
