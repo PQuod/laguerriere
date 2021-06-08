@@ -96,7 +96,10 @@ margin-bottom:var(--line-height);
 	margin-bottom:var(--line-height);
 }
 
-
+.grid-carreaux{
+	display: grid;
+grid-template-columns: 30% 30% 30%;
+}
 article{
 	border: thin dotted var(--rose);
 	padding:20px;
