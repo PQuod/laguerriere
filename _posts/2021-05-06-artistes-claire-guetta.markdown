@@ -3,6 +3,8 @@ layout: post
 title:  "Claire Guetta"
 date:   2021-05-06 14:34:08 +0200
 categories: artistes
+img: /imgs/cguetta.png
+img_alt: "Photo Claire Guetta"
 ---
 [Site internet](http://www.claireguetta.com) / [Instagram](https://www.instagram.com/claireguetta/) / [Duo (bonus)](http://www.claireetmorgan.fr)
 
