@@ -5,7 +5,7 @@ date:   2021-05-04 14:34:08 +0200
 categories: soutien
 ---
 
-Jusqu'au 7 juillet 2021, nous lançons un appel à soutien via le lien ci-dessous : 
+Jusqu'au 12 juillet 2021, nous lançons un appel à soutien via le lien ci-dessous : 
 
 
 [https://fr.ulule.com/galerie-la-guerriere/?](https://fr.ulule.com/galerie-la-guerriere/?)
