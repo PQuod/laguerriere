@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "À venir"
+title:  "Podcast One Million Queendoms"
 date:   2021-05-04 14:34:08 +0200
 categories: ressources
 ---
 
-*La Guerrière* produira, au fil de ses expositions, des entretiens avec les artistes et des textes sur les expositions en ses murs.
+Le premier podcast de *La Guerrière* au sujet de l'exposition One Million Queendoms de Remedios Fargeat et Constance Hinfray est disponible sur MixCloud ! 
 
-Plus de contenu bientôt !!
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FLaGuerri%C3%A8re%2Fone-million-queendoms%2F" frameborder="0" ></iframe>
