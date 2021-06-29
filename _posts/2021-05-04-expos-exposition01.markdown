@@ -3,7 +3,7 @@ layout: post
 title:  "One Million Queendoms"
 date:   2021-05-04 14:34:08 +0200
 categories: expositions
-img: /imgs/mini_OneMillionQueendoms01.jpg
+img: /imgs/mini_expo01.gif
 img_alt: "Photo One Million Queendoms"
 ---
 
