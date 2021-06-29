@@ -19,3 +19,5 @@ Une performance de Vincent Naba sera présentée le soir du vernissage.
 
 
 [Lien de l'évènement facebook](https://www.facebook.com/events/4061422857304107?ref=newsfeed)
+
+![Entrée dans à perte de vue](/imgs/apertedevue01.jpg)
