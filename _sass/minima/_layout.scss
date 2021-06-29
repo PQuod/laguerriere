@@ -101,8 +101,16 @@ display: grid;
 grid-template-columns: 32% 32% 32%;
 }
 
-.miniature{
+.miniature:hover{
+	display:none;
+}
 
+.miniature_hover{
+	display:none
+}
+
+.miniature_hover:hover{
+	display:inline-block;
 }
 
 article{
