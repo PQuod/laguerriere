@@ -5,7 +5,6 @@ date:   2021-04-29 14:34:08 +0200
 categories: artistes
 img: /imgs/mini_l_tortolano.jpg
 img_alt: "Photo Lucas Tortolano"
-img_hover: /imgs/mini_l_tortolano.jpg
 ---
 [Instagram](https://www.instagram.com/onalotrot/)
 
