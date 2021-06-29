@@ -3,7 +3,7 @@ layout: post
 title:  "A perte de vue, je vois clair"
 date:   2021-05-03 14:34:08 +0200
 categories: expositions
-img: /imgs/mini_expo02.jpg
+img: /imgs/mini_expo02.gif
 ---
 
 [Claire Guetta]({% post_url 2021-05-06-artistes-claire-guetta %}) & [Vincent Naba]({% post_url 2021-05-03-artistes-vincent-naba %})
