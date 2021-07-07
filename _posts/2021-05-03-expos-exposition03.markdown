@@ -10,8 +10,8 @@ img_alt: "Photo exposition 03"
 [Lucie Malbéqui]({% post_url 2021-05-04-artistes-lucie-malbequi %}), [Lucas Tortolano]({% post_url 2021-04-29-artistes-lucas-tortolano %}) & [Alisson Schmitt]({% post_url 2021-04-30-artistes-alisson-schmitt %})
 
 
-Vernissage le **jeudi 02 septembre** à ??h.  
-Exposition visible du 03 au 12 septembre  
+Vernissage le **jeudi 16 septembre** à 18h.  
+Exposition visible du 17 au 26 septembre  
 Visites sur RDV : laguerrierecontact@protonmail.com
 
 
