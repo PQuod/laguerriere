@@ -10,7 +10,7 @@ Calcul du nombre de post sur la page pour afficher en grille ou pas -->
   {% endfor %}
 
 <!-- S'il y a plus d'un post, affichage en grille -->
-{% if total > 1 and page.category != 'ressources' %}
+{% if total > 1 and page.category != 'ressources' and page.category != 'quisommesnous' %}
 <div class="grid-carreaux">
   <!-- La boucle pour que chaque post de la catégorie recherchée apparaisse -->
     {% for post in site.categories[page.category] %}
