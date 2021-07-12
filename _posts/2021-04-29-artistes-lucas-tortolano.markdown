@@ -15,3 +15,5 @@ Vous assisterez à une performance autour de mon travail artistique dans laquell
 Bonne visite/Bonne route.
 
 *bonjourbonsoir, 2020, texte sonore, lecture par voix artificielle*
+
+![Photo de Lucas Tortolano](/imgs/lucastortolano.jpg)
