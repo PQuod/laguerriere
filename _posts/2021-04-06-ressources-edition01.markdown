@@ -8,5 +8,5 @@ En libre téléchargement, l'édition *One Million Queendoms* présentée par Re
 
 
 <object data="http://laguerriere.net/imgs/onemillionqueendoms_editionnumerique.pdf" type="application/pdf" width="100%" height="550px">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://laguerriere.net/imgs/onemillionqueendoms_editionnumerique.pdf">Download PDF</a>.</p>
+        <p>Ce navigateur ne supporte pas l'affichage des PDF. Vous pouvez l'ouvrir ou le télécharger via ce lien : <a href="http://laguerriere.net/imgs/onemillionqueendoms_editionnumerique.pdf">One Million Queendoms - Téléchargement</a>.</p>
 </object>
