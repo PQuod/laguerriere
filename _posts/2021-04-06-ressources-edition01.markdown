@@ -8,6 +8,5 @@ En libre consultation téléchargement, l'édition *One Million Queendoms* prés
 
 <object data="http://laguerriere.net/imgs/onemillionqueendoms_editionnumerique.pdf" type="application/pdf" width="100%" height="750px">
     <embed src="http://laguerriere.net/imgs/onemillionqueendoms_editionnumerique.pdf" type="application/pdf">
-    </embed>
 </object>
 
