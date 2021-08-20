@@ -6,5 +6,5 @@ categories: ressources
 ---
 En libre consultation téléchargement, l'édition *One Million Queendoms* présentée par Remedios Fargeat et Constance Hinfray lors de leur exposition eponyme, à trouver en suivant ce lien : <a href="http://laguerriere.net/imgs/onemillionqueendoms_editionnumerique.pdf">One Million Queendoms - Téléchargement</a>.
 
-<embed src="http://laguerriere.net/imgs/onemillionqueendoms_editionnumerique.pdf" height="300" width="100%">
+<embed src="http://laguerriere.net/imgs/onemillionqueendoms_editionnumerique.pdf" height="400" width="100%">
 
