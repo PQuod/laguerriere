@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Édition One Million Queendoms"
-date:   2021-05-04 14:34:08 +0200
+date:   2021-05-06 14:34:08 +0200
 categories: ressources
 ---
 En libre téléchargement, l'édition *One Million Queendoms" présentée par Remedios Fargeat et Constance Hinfray lors de leur exposition eponyme.
