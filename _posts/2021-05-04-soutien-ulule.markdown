@@ -5,13 +5,6 @@ date:   2021-05-04 14:34:08 +0200
 categories: soutien
 ---
 
-Jusqu'au 12 juillet 2021, nous lançons un appel à soutien via le lien ci-dessous : 
+Notre appel à financement participatif a été couronné de succès, nous remercions du fond du coeur toutes nos contributrices et tous nos contributeurs ! Nous sommes très heureuses de cette réussite qui va nous permettre de rémunérer tous nos artistes, ce que nous n'aurions jamais pu faire sans vous !
 
-
-[https://fr.ulule.com/galerie-la-guerriere/?](https://fr.ulule.com/galerie-la-guerriere/?)
-
-
-Votre contribution, même symbolique, permettra à La Guerrière de pérenniser ses actions et de s'engager aux côtés des artistes de sa programmation. 
-La grande majorité du budget reviendra aux artistes à travers leur rémunération et le défraiement de leur venue pour les montages et vernissages d'exposition ainsi que le transport de leurs oeuvres. 
-
-Un énorme merci pour votre soutien !
+Si vous souhaitez continuer à nous soutenir pour nous permettre de commencer à financer la saison 2022, c'est possible ! Pour en savoir plus, vous pouvez nous écrire : laguerrierecontact(at)protonmail.com 
