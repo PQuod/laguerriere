@@ -17,6 +17,6 @@ La Guerrière souhaite mettre en valeur le travail, la production et les intér�
   <button type="submit">Send</button>
 </form>
 <br>
-La Guerrière cherche actuellement des soutiens financiers qui seront entièrement reversés aux artistes invité·e·s·x.
+La Guerrière accepte tous les soutiens financiers qui seront entièrement reversés aux artistes invité·e·s·x.
 
 <a>Écrivez-nous : laguerrierecontact /a\ protonmail.com</a>
