@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Exposition 4"
-date:   2021-05-03 13:34:08 +0200
+date:   2021-05-01 13:34:08 +0200
 categories: expositions
 img: /imgs/mini_expo04.jpg
 img_alt: "Photo exposition 04"
