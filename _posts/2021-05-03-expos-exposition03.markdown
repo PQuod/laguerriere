@@ -16,6 +16,6 @@ Visites sur RDV : laguerrierecontact@protonmail.com
 
 Le son d'un tambour résonne. Le sol vibre sous les semelles. Une odeur de jasmin flotte dans l'air. La laverie de l'amour ouvre ses portes ! De la lessive effervescente se mêle aux bulles des créatures marines de Lucas Tortolano, les animaux fabuleux d'Alisson Schmitt nous content leurs fables symbiotiques tandis que Lucie Malbéqui vous invite dans un espace ambigu, occupé de formes parodiques mais bien fonctionnelles. Venez faire le plein d'émotions dans l'atmosphère estivale de la buanderie La Guerrière pour clore l'été en fraîcheur. Amenez votre linge, le cycle court de 34 minutes spécial "Délicats" est à votre service pour 2 euros.
 
-[Lien de l'évènement facebook](https://www.facebook.com/events/4061422857304107?ref=newsfeed)
+[Lien de l'évènement facebook](https://fb.me/e/1fGwB1B7E)
 
 ![Visuel de l'expo](/imgs/amourcyclecourt.png)
