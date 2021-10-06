@@ -19,6 +19,7 @@ Le son d'un tambour résonne. Le sol vibre sous les semelles. Une odeur de jasmi
 [Lien de l'évènement facebook](https://fb.me/e/1fGwB1B7E)
 
 ![Visuel de l'expo](/imgs/amourcyclecourt.png)
+Crédit photographies : Alisson Schmitt
 ![Photo Expo](/imgs/AmourCycleCourt1.jpg)
 ![Photo Expo](/imgs/AmourCycleCourt2.jpg)
 ![Photo Expo](/imgs/AmourCycleCourt3.jpg)
