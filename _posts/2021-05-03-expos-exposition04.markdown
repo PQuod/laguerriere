@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Exposition 4"
+title:  "Ghostgaze"
 date:   2021-05-01 13:34:08 +0200
 categories: expositions
 img: /imgs/mini_expo04.jpg
