@@ -18,4 +18,4 @@ Des figures émergent aussi bien de la lumière blanche émise par les écrans q
 
 [Lien de l'évènement facebook](https://www.facebook.com/events/230786295772658/?ref=newsfeed)
 
-![Visuel de l'expo](/imgs/ghostgaze_visuel.png)
+![Visuel de l'expo](/imgs/ghostgaze_visuel.jpg)
