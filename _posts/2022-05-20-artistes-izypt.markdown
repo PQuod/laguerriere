@@ -3,7 +3,7 @@ layout: post
 title:  "Izypt"
 date:   2022-05-20 14:34:08 +0200
 categories: artistes
-img: /imgs/mini_izypt.jpg
+img: /imgs/mini_izypt.png
 img_alt: "Photo Izypt"
 ---
 [Site](https://izypt.hotglue.me/) / [Les Jours](https://lesjours.tumblr.com/)
