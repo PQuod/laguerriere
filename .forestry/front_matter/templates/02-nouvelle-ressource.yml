@@ -5,12 +5,20 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: post
 - type: text
   name: title
-  label: title
+  label: Titre
+  config:
+    required: true
 - type: datetime
   name: date
-  label: date
+  default: now
+  label: Date
+  description: La date d'aujourd'hui est mise par défaut
 - type: text
   name: categories
   label: categories
+  hidden: true
+  default: ressources
