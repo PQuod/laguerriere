@@ -31,5 +31,3 @@ fields:
   label: category
   hidden: true
   default: soutien
-pages:
-- _posts/2023-02-14-blablablu.md
