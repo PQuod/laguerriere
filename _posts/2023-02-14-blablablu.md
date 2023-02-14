@@ -5,6 +5,6 @@ category: soutien
 titre: Blablablu
 
 ---
-fhhgouerhgiorhviodfjhbidobhkdfjnbdfhbdibdghbidojbidoghrijisoghsiog![](/imgs/capture-d-ecran-2017-11-23-a-17-54-26.png)
+fhhgouerhgiorhviodfjhbidobhkdfjnbdfhbdibdghbidojbidoghrijisoghsiog
 
 nkgjojgopergopzgopr
