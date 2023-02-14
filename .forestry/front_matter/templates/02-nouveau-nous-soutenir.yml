@@ -1,4 +1,33 @@
 ---
 label: 02 Nouveau "Nous soutenir"
 hide_body: false
-fields: []
+fields:
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: true
+  default: post
+- name: titre
+  type: text
+  config:
+    required: true
+  label: Titre
+- name: date
+  type: datetime
+  label: Date
+  description: La date d'aujourd'hui est mise par défaut
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+- name: category
+  type: text
+  config:
+    required: false
+  label: category
+  hidden: true
+  default: soutien
