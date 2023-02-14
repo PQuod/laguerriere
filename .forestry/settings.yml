@@ -4,14 +4,26 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: index.md
+  label: Accueil
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: documents
+  templates:
+  - 02-nouvelle-expo
+  - 02-nouvelle-ressource
+  - 02-nouveau-qui-sommes-nous
+  - 02-nouveau-nous-soutenir
+  - nouvel-le-artiste
 - type: directory
   path: _category
-  label: Pages
+  label: Onglet
   create: documents
   match: "**/*"
+  templates:
+  - 01_nouvel-onglet
 upload_dir: imgs
 public_path: "/imgs"
 front_matter_path: ''
