@@ -5,18 +5,29 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: post
 - type: text
   name: title
-  label: title
+  label: Titre
+  config:
+    required: true
 - type: datetime
   name: date
-  label: date
+  label: Date
+  config:
+    required: true
+  default: now
+  description: La date d'aujourd'hui est mise par défaut
 - type: text
   name: categories
   label: categories
+  hidden: true
+  default: expositions
 - type: file
   name: img
-  label: img
+  label: Image
+  description: L'image qui apparaîtra dans l'onglet Expositions
 - type: text
   name: img_alt
-  label: img_alt
+  label: Légende de l'image
