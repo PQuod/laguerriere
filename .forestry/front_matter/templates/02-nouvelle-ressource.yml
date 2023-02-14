@@ -1,5 +1,5 @@
 ---
-label: 02 Nouvelle ressource
+label: 02 Nouveau podcast
 hide_body: false
 fields:
 - type: text
@@ -21,4 +21,4 @@ fields:
   name: categories
   label: categories
   hidden: true
-  default: ressources
+  default: podcasts
