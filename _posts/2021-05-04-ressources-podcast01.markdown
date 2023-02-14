@@ -2,7 +2,7 @@
 layout: post
 title:  "Podcast One Million Queendoms"
 date:   2021-05-04 14:34:08 +0200
-categories: ressources
+categories: podcasts
 ---
 
 Le premier podcast de *La Guerrière* au sujet de l'exposition One Million Queendoms de Remedios Fargeat et Constance Hinfray est disponible sur MixCloud ! 
