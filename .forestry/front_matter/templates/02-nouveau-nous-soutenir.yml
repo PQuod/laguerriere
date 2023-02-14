@@ -31,3 +31,5 @@ fields:
   label: category
   hidden: true
   default: soutien
+pages:
+- _posts/blablablu.md
