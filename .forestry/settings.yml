@@ -5,9 +5,16 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: index.md
+  path: index.markdown
   label: Accueil
   match: "**/*"
+- type: directory
+  path: _category
+  label: Onglets
+  create: documents
+  match: "**/*"
+  templates:
+  - 01_nouvel-onglet
 - type: jekyll-posts
   label: Posts
   create: documents
@@ -17,13 +24,6 @@ sections:
   - 02-nouveau-qui-sommes-nous
   - 02-nouveau-nous-soutenir
   - nouvel-le-artiste
-- type: directory
-  path: _category
-  label: Onglet
-  create: documents
-  match: "**/*"
-  templates:
-  - 01_nouvel-onglet
 upload_dir: imgs
 public_path: "/imgs"
 front_matter_path: ''
