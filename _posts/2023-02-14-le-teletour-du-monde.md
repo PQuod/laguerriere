@@ -7,7 +7,7 @@ img: "/imgs/img_9119.jpg"
 img_alt: TELETOUR DU MONDE
 
 ---
-Sur l’invitation de La Guerrière, l’artiste **Diane Rabreau** installe au **PHAKT** les bureaux du **Télétour du Monde**, entreprise fictive qui propose une expérience de voyage imaginaire dans une réalité ordinaire. Des témoignages recueillis par téléphone donnent lieu à des interprétations graphiques, dessin, peinture, collages… qui viennent orner les murs de la galerie d’exposition. Tout au long de l’expérience, le catalogue s’étoffe de nouvelles destinations grâce à la collecte active d’une équipe de terrain et/ou des visiteurs·euses.
+Première exposition hors les murs, l’artiste **Diane Rabreau** installe au **PHAKT** les bureaux du **Télétour du Monde**, entreprise fictive qui propose une expérience de voyage imaginaire dans une réalité ordinaire. Des témoignages recueillis par téléphone donnent lieu à des interprétations graphiques, dessin, peinture, collages… qui viennent orner les murs de la galerie d’exposition. Tout au long de l’expérience, le catalogue s’étoffe de nouvelles destinations grâce à la collecte active d’une équipe de terrain et/ou des visiteurs·euses.
 
 _Lettre au_·_à la visiteur_·se :
 
