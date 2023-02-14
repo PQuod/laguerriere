@@ -32,4 +32,5 @@ fields:
   name: img_alt
   label: Légende de l'image
 pages:
+- _posts/2023-02-14-soupe-aux-cailloux.md
 - _posts/le-teletour-du-monde.md
