@@ -23,5 +23,3 @@ fields:
   label: categories
   default: editions
   hidden: true
-pages:
-- _posts/edition-one-million-queendoms.md
