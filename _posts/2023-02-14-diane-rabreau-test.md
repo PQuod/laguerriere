@@ -9,9 +9,9 @@ img_alt: diane rabreau
 ---
 [Site](http://dianerabreau.fr/)
 
-Diane Rabreau lance des invitations à explorer – 
+Diane Rabreau lance des invitationsà explorer – 
 
-la campagne et la ville, le dehors et le dedans, le lointain et le proche, 
+la campagne et la ville,le dehors et le dedans, le lointain et le proche,
 
 le réel et la fiction, nos rêves et nos rues – et se rencontrer.
 
