@@ -7,21 +7,15 @@ img: "/imgs/multidirectionnelle.jpg"
 img_alt: diane rabreau
 
 ---
-Diane Rabreau 
+[Site](http://dianerabreau.fr/)
 
-lance des invitations 
+Diane Rabreau lance des invitations 
 
-à explorer – 
+à explorer – la campagne et la ville, 
 
-la campagne et la ville, 
+le dehors et le dedans, le lointain et le proche, 
 
-le dehors et le dedans, 
-
-le lointain et le proche, 
-
-le réel et la fiction, 
-
-nos rêves et nos rues – 
+le réel et la fiction, nos rêves et nos rues – 
 
 et se rencontrer.
 
