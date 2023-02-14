@@ -32,5 +32,3 @@ fields:
   name: img_alt
   label: Légende
   description: La légende de l'image
-pages:
-- _posts/diane-rabreau-test.md
