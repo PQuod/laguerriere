@@ -18,6 +18,3 @@ fields:
   name: description
   label: Description
   description: Une description éventuelle de la section (facultatif)
-pages:
-- _category/les-editions.md
-- _category/les-podcasts.md
