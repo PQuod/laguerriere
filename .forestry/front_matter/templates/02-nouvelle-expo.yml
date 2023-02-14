@@ -31,3 +31,5 @@ fields:
 - type: text
   name: img_alt
   label: Légende de l'image
+pages:
+- _posts/le-teletour-du-monde.md
