@@ -2,7 +2,7 @@
 layout: post
 title:  "Podcast Ghostgaze"
 date:   2022-06-13 14:34:08 +0200
-categories: ressources
+categories: podcasts
 ---
 
 Le troisième podcast de *La Guerrière* au sujet de l'exposition Ghostgaze de Gabrielle Descazes, Baptiste Fertillet et Manon Pretto est disponible sur MixCloud ! 
