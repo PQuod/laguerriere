@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _includes/bandeau.md
   label: Bandeau
-  match: "**/*"
 - type: document
   path: index.markdown
   label: Accueil
