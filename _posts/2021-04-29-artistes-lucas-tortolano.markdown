@@ -16,4 +16,4 @@ Bonne visite/Bonne route.
 
 *bonjourbonsoir, 2020, texte sonore, lecture par voix artificielle*
 
-![Photo de Lucas Tortolano](/imgs/lucastortolano.jpg)
+![Photo de Lucas Tortolano](/imgs/lucastortolano.jpg) 
