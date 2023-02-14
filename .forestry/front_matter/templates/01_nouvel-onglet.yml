@@ -4,10 +4,17 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: Titre
+  label: 'Titre '
+  description: Le titre visible sur le site
+  config:
+    required: true
 - type: text
   name: category
-  label: category
+  label: Nom du fichier
+  description: Le titre sans espace, majuscules ou ponctuation
+  config:
+    required: true
 - type: text
   name: description
-  label: description
+  label: Description
+  description: Une description éventuelle de la section (facultatif)
