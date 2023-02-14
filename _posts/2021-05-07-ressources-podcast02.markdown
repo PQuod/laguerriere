@@ -2,7 +2,7 @@
 layout: post
 title:  "Podcast À perte de vue, je vois clair"
 date:   2021-05-07 14:34:08 +0200
-categories: ressources
+categories: podcasts
 ---
 Voici le second podcast de La Guerrière avec Clair Guetta et Vincent Naba autour de leur rapport à la magie, de leurs pouvoirs rêvés et de leur exposition : "A perte de vue, je vois clair". 
 
