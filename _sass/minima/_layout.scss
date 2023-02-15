@@ -22,11 +22,13 @@ a{
   text-decoration-color: var(--couleur1);
   font-weight: bold;
   color:var(--couleur2);
+	font-family: 'Krona One', sans-serif;
 }
 
 p{
 color: var(--couleur2);
 margin-bottom:var(--line-height);
+	
 }
 
 p:last-child{
@@ -45,6 +47,7 @@ body{
 background-color:var(--background-color);
 line-height:var(--line-height);
 font-family:var(--font-family);
+	font-family: 'Palanquin', sans-serif;
 }
 
 /* Header */
