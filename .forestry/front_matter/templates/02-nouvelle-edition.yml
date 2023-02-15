@@ -33,3 +33,5 @@ fields:
   config:
     required: false
   label: Légende de l'image
+pages:
+- _posts/one-million-queendoms.md
