@@ -23,3 +23,13 @@ fields:
   label: categories
   default: editions
   hidden: true
+- name: img
+  type: file
+  config:
+    maxSize: 64
+  label: Image
+- name: img_alt
+  type: text
+  config:
+    required: false
+  label: Légende de l'image
