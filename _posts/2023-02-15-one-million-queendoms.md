@@ -7,9 +7,11 @@ img: "/imgs/omq.png"
 img_alt: one million queedoms
 
 ---
-_One Million Queendoms_ est une édition qui complète [l'exposition du même nom](https://laguerriere.net/expositions/2021/05/04/expos-exposition01.html). On y retrouve les textes et dessins _Un job dans le social_, de Remedios Fargeat ainsi que les textes et dessins _A ghost and her shells_ de Constance Hinfray. 
+_One Million Queendoms_ est une édition qui complète [l'exposition du même nom](https://laguerriere.net/expositions/2021/05/04/expos-exposition01.html). On y retrouve les textes et dessins _Un job dans le social_, de Remedios Fargeat ainsi que les textes et dessins _A ghost and her shells_ de Constance Hinfray.
 
-L'édition a été imprimée à la Maison de la Poésie de Rennes en 50 exemplaires en juin 2021.
+L'édition a été imprimée à la Maison de la Poésie de Rennes 
+
+en 50 exemplaires en juin 2021.
 
 ÉDITION ÉPUISÉ
 
