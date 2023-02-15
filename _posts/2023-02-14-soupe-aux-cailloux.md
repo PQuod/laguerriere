@@ -11,7 +11,9 @@ Soupe aux Cailloux
 
 [Clovis Deschamps-Prince](https://laguerriere.net/artistes/2022/05/20/artistes-clovis-deschamps-prince.html) [Izypt](https://laguerriere.net/artistes/2022/05/20/artistes-izypt.html)
 
-Vernissage le samedi 25 juin à 18h. Exposition visible du 26 juin au 10 juillet 2022.
+Vernissage le samedi 25 juin à 18h. 
+
+Exposition visible du 26 juin au 10 juillet 2022.
 
 Visites sur RDV : laguerrierecontact@protonmail.com
 
