@@ -9,7 +9,7 @@ img_alt: TELETOUR DU MONDE
 ---
 Première exposition hors les murs, l’artiste **Diane Rabreau** installe au **PHAKT** les bureaux du **Télétour du Monde**, entreprise fictive qui propose une expérience de voyage imaginaire dans une réalité ordinaire. Des témoignages recueillis par téléphone donnent lieu à des interprétations graphiques, dessin, peinture, collages… qui viennent orner les murs de la galerie d’exposition. Tout au long de l’expérience, le catalogue s’étoffe de nouvelles destinations grâce à la collecte active d’une équipe de terrain et/ou des visiteurs·euses.
 
-Plusieurs événements ont ponctué l'exposition tout au long de sa durée. 
+Plusieurs événements ont ponctué l'exposition tout au long de sa durée.
 
 **Jeudi 22 septembre**, 18h30 : lancement du Télétour du Monde
 
@@ -23,3 +23,7 @@ Plusieurs événements ont ponctué l'exposition tout au long de sa durée.
 
 _En partenariat avec le GPAS Bretagne et la R22 Tout-Monde.  
 Avec le soutien du Géant des Beaux Arts et de la Générale de Bureautique._
+
+![](/imgs/1665236724685.jpg)
+
+![](/imgs/img_9013.jpg)![](/imgs/img_9012.jpg)![](/imgs/img_9014.jpg)![](/imgs/img_9113.jpg)![](/imgs/img_9112.jpg)![](/imgs/img_9115.jpg)![](/imgs/img_9124.jpg)![](/imgs/img_9116.jpg)![](/imgs/img_9117.jpg)![](/imgs/img_9134.jpg)![](/imgs/img_9120.jpg)![](/imgs/img_9122.jpg)![](/imgs/img_9118.jpg)![](/imgs/img_9123.jpg)![](/imgs/img_9121.jpg)![](/imgs/img_9119.jpg)![](/imgs/img_9136.jpg)![](/imgs/img_9135.jpg)![](/imgs/img_9055.jpg)![](/imgs/1665236724656.jpg)![](/imgs/img_9139.jpg)
