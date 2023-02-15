@@ -1,25 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+font-family: 'Krona One', sans-serif;
+font-family: 'Palanquin', sans-serif;
+font-family: 'Spinnaker', sans-serif;
+
+
 /* Les variables */
 :root{
 --font-size:1em;
---line-height:1.9em;
+--line-height:1.5em;
 --background-color: #fff6ee;
---rouge: #ffc1e1;
---bleu:#2fb3ad;
---rose:#006967;
---font-family: 'Almendra', serif;
+--couleur1: #ffc1e1;
+--couleur2:#2fb3ad;
+--couleur3:#006967;
+--font-family: 'Palanquin', sans-serif;
 }
 
 /* Général */
 
 a{
   text-decoration: underline;
-  text-decoration-color: var(--rouge);
+  text-decoration-color: var(--couleur1);
   font-weight: bold;
-  color:var(--bleu);
+  color:var(--couleur2);
 }
 
 p{
-color: var(--bleu);
+color: var(--couleur2);
 margin-bottom:var(--line-height);
 }
 
@@ -53,12 +60,12 @@ header{
 	font-size:calc(var(--font-size)*3);
 	font-weight:bold;
 	font-style:italic;
-	color:var(--rose);
-	text-shadow: 0 0px 12px var(--rouge), 0 0px 12px var(--rouge), 0 0px 12px var(--rouge);
+	color:var(--couleur3);
+	text-shadow: 0 0px 12px var(--couleur1), 0 0px 12px var(--couleur1), 0 0px 12px var(--couleur1);
 }
 
 .guerriere a{
-color:var(--rose);
+color:var(--couleur3);
 text-decoration:none;
 margin-bottom:var(--line-height);
 }
@@ -102,10 +109,10 @@ grid-template-columns: 32% 32% 32%;
 
 
 article{
-	border: thin dotted var(--rose);
+	border: thin dotted var(--couleur3);
 	padding:20px;
 	margin:10px;
-	color: var(--bleu);
+	color: var(--couleur2);
 }
 
 
@@ -123,11 +130,11 @@ article{
     nav ul{
     	padding:20px;
     	margin:10px;
-    	border: thin dotted var(--rose);
+    	border: thin dotted var(--couleur3);
     }
 
     .active{
-    	color:var(--rouge);
+    	color:var(--couleur1);
     	text-decoration:none;
     }
 
@@ -137,15 +144,15 @@ article{
     	padding-left:30px;
     	font-weight: 700;
         font-style: italic;
-        color: var(--rose);
-        text-shadow: 0 0px 12px var(--rouge);
+        color: var(--couleur3);
+        text-shadow: 0 0px 12px var(--couleur1);
         transform: rotate(20deg);
     }
 
 /* Le footer */
 
 footer{
-border-top: thin dotted var(--rose);
+border-top: thin dotted var(--couleur3);
 	position:fixed;
 	width:100%;
 	height:5%;
@@ -162,8 +169,8 @@ border-top: thin dotted var(--rose);
 display:inline-block;
 white-space: nowrap;
 animation: defilement-rtl 30s infinite linear;
-color: var(--bleu);
-text-shadow: 0 0px 12px var(--rose);
+color: var(--couleur2);
+text-shadow: 0 0px 12px var(--couleur3);
 padding-right: 2em;
 padding-left: 100%;
 margin-top:0.5em;
