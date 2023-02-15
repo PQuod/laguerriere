@@ -2,7 +2,7 @@
 layout: post
 date: 2023-02-15 14:51:46 +0100
 categories: podcasts
-title: " Résidence au Moulin de Marzan, 2"
+title: " Résidence au moulin de Marzan, 2"
 
 ---
 Rélfexions, échanges et photos sonores des jours de résidence de La Guerrière au Moulin de Marzan, chez l’artiste Camille Bondon. Episode 2
