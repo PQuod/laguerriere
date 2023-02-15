@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: editions
-title: Laisser, faire
+title: Laisser, faire (édition)
 date: 2023-02-15 00:00:00 +0100
 img: "/imgs/laisserfaire.png"
 img_alt: ''
