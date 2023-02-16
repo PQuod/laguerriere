@@ -85,13 +85,10 @@ margin-bottom:var(--line-height);
 /* Colonne gauche (logo) */
 
 .logo{
-	padding-left:15px;
+	padding-left:auto;
 }
 
 .logo img{
-	display: block;
-	margin-left: auto;
-  	margin-right: auto;
 	width:60%;
 	transition: transform .7s ease-in-out;
 }
