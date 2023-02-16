@@ -80,8 +80,7 @@ margin-bottom:var(--line-height);
 /* Le contenu */
 
 .home{
-	margin:auto;
-	margin-bottom:var(--line-height);
+	margin:var(--line-height);
 	width:100%;
 	display: grid;
 	grid-template-columns: 25% 40% 25%;
