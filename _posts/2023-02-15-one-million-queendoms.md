@@ -13,6 +13,6 @@ L'édition a été imprimée à la Maison de la Poésie de Rennes
 
 en 50 exemplaires en juin 2021.
 
-ÉDITION ÉPUISÉ
+ÉDITION ÉPUISÉE
 
 ![](/imgs/dscf6838-copie.jpg)![](/imgs/dscf6839-copie.jpg)![](/imgs/dscf6842-copie.jpg)![](/imgs/dscf6843-copie.jpg)![](/imgs/dscf6844-copie.jpg)![](/imgs/dscf6845-copie.jpg)![](/imgs/dscf6846-copie.jpg)![](/imgs/dscf6847-copie.jpg)![](/imgs/dscf6848-copie.jpg)![](/imgs/dscf6839-copie.jpg)
