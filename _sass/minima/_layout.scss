@@ -44,7 +44,8 @@ a{
   text-decoration-color: var(--couleur1);
   font-weight: bold;
   color:var(--couleur2);
-  font-family: 'Ortica', sans-serif;
+  font-family: 'FT88', sans-serif;
+  font-style: Gothique;
 }
 
 p{
@@ -82,8 +83,8 @@ header{
 
 .guerriere{
 	font-size:calc(var(--font-size)*3);
-	font-weight:bold;
-	font-style:italic;
+	font-weight: bold;
+	font-style: Gothique;
 	color:var(--couleur3);
 	text-shadow: 0 0px 20px var(--couleur2), 0 0px 12px var(--couleur2), 0 0px 12px var(--couleur2);
 }
