@@ -24,3 +24,5 @@ Les expositions :
 ###### [_Ghostgaze _](https://laguerriere.net/expositions/2021/05/01/expos-exposition04.html)de [Gabrielle Decazes](https://laguerriere.net/artistes/2021/05/09/artistes-gabrielle-decazes.html), [Baptiste Fertillet](https://laguerriere.net/artistes/2021/05/07/artistes-baptiste-fertillet.html) & [Manon Pretto](https://laguerriere.net/expositions/2021/05/01/%{ post_url 2021-05-01-artistes-manon-pretto %})
 
 15 EUROS + port
+
+![](/imgs/dscf6851-copie.jpg)![](/imgs/dscf6853-copie.jpg)![](/imgs/dscf6855-copie.jpg)![](/imgs/dscf6856-copie.jpg)![](/imgs/dscf6857-copie.jpg)![](/imgs/dscf6858-copie.jpg)![](/imgs/dscf6859-copie.jpg)![](/imgs/dscf6860-copie.jpg)![](/imgs/dscf6861-copie.jpg)![](/imgs/dscf6862-copie.jpg)![](/imgs/dscf6863-copie.jpg)![](/imgs/dscf6864-copie.jpg)
