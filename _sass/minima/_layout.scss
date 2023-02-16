@@ -104,7 +104,7 @@ margin-bottom:var(--line-height);
 	display: grid;
 	grid-template-columns: 25% 40% 25%;
 	grid-gap:30px;
-	grid-border: solid var(--border1);
+	grid-border: solid 1px;
 }
 
 /* Colonne gauche (logo) */
@@ -136,7 +136,7 @@ grid-template-columns: 32% 32% 32%;
 
 
 article{
-	border: solid var(--border1) var(--couleur3);
+	border: solid 1px var(--couleur3);
 	padding:20px;
 	margin:10px;
 	color: var(--couleur2);
