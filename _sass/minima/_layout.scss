@@ -19,18 +19,16 @@
 	url("/FT88-Bold.woff") format("woff"),
 	url("/FT88-Bold.woff2") format("woff2")
 	
-	  
 	url("/FT88-School.woff") format("woff"),
 	url("/FT88-School.woff2") format("woff2"),
 	  
 	url("/FT88-Expanded.woff") format("woff"),
-	url("/FT88-Expanded.woff2") format("woff2");
-}
-@font-face {
-  font-family: "FT88-Gothique";
-src:	url("/FT88-Gothique.woff") format("woff"),
+	url("/FT88-Expanded.woff2") format("woff2"),
+	  
+	url("/FT88-Gothique.woff") format("woff"),
 	url("/FT88-Gothique.woff2") format("woff2");
 }
+
 
 /* Les variables */
 :root{
@@ -50,7 +48,8 @@ a{
   text-decoration: underline;
   text-decoration-color: var(--couleur1);
   color:var(--couleur2);
-  font-family: 'FT88-Gothique', sans-serif;
+  font-family: 'FT88', sans-serif;
+	font-style: Gothique;
 }
 
 p{
