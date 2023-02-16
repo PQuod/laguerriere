@@ -1,6 +1,6 @@
 ---
 title: Les Editions
-category: editions.md
+category: editions
 description: ''
 
 ---
