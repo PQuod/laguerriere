@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Palanquin:wght@100;400;700&family=Spinnaker&display=swap');
 
+@font-face {
+  font-family: "FONT NAME";
+  src: url("ortica.woff2") format("woff2"),
+       url("ortica.woff") format("woff");
+}
+
+
 
 /* Les variables */
 :root{
