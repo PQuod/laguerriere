@@ -103,7 +103,7 @@ margin-bottom:var(--line-height);
 	display: grid;
 	grid-template-columns: 25% 40% 25%;
 	grid-gap:30px;
-	grid-border: solid 1px;
+	grid-border: solid 0.5px;
 }
 
 /* Colonne gauche (logo) */
@@ -135,7 +135,7 @@ grid-template-columns: 32% 32% 32%;
 
 
 article{
-	border: solid var(--couleur3);
+	border: solid 0.5px var(--couleur3);
 	padding:20px;
 	margin:10px;
 	color: var(--couleur2);
@@ -156,7 +156,7 @@ article{
     nav ul{
     	padding:20px;
     	margin:10px;
-    	border: solid var(--couleur3);
+    	border: solid 0.5px var(--couleur3);
     }
 
     .active{
