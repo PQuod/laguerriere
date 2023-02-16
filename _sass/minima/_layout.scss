@@ -89,6 +89,9 @@ margin-bottom:var(--line-height);
 }
 
 .logo img{
+	display: block;
+	margin-left: auto;
+  	margin-right: auto;
 	width:60%;
 	transition: transform .7s ease-in-out;
 }
