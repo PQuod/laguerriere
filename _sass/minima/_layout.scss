@@ -61,7 +61,7 @@ header{
 	font-weight:bold;
 	font-style:italic;
 	color:var(--couleur3);
-	text-shadow: 0 0px 12px var(--couleur1), 0 0px 12px var(--couleur1), 0 0px 12px var(--couleur1);
+	text-shadow: 0 0px 12px var(--couleur3), 0 0px 12px var(--couleur3), 0 0px 12px var(--couleur3);
 }
 
 .guerriere a{
@@ -109,7 +109,7 @@ grid-template-columns: 32% 32% 32%;
 
 
 article{
-	border: thin dotted var(--couleur3);
+	border: var(--couleur3);
 	padding:20px;
 	margin:10px;
 	color: var(--couleur2);
@@ -130,7 +130,7 @@ article{
     nav ul{
     	padding:20px;
     	margin:10px;
-    	border: thin dotted var(--couleur3);
+    	border: var(--couleur3);
     }
 
     .active{
@@ -145,14 +145,14 @@ article{
     	font-weight: 700;
         font-style: italic;
         color: var(--couleur3);
-        text-shadow: 0 0px 12px var(--couleur1);
+        text-shadow: 0 0px 12px var(--couleur3);
         transform: rotate(20deg);
     }
 
 /* Le footer */
 
 footer{
-border-top: thin dotted var(--couleur3);
+border-top: var(--couleur3);
 	position:fixed;
 	width:100%;
 	height:5%;
