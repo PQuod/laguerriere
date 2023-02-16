@@ -47,7 +47,6 @@
 a{
   text-decoration: underline;
   text-decoration-color: var(--couleur1);
-  font-weight: Gothique;
   color:var(--couleur2);
   font-family: 'FT88Goth', sans-serif;
 }
@@ -87,8 +86,9 @@ header{
 
 .guerriere{
 	font-size:calc(var(--font-size)*3);
+	
+font-family: 'FT88Goth', sans-serif;
 	font-weight: bold;
-	font-style: Gothique;
 	color:var(--couleur3);
 	text-shadow: 0 0px 20px var(--couleur2), 0 0px 12px var(--couleur2), 0 0px 12px var(--couleur2);
 }
