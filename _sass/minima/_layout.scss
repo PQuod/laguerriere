@@ -79,7 +79,7 @@ margin-bottom:var(--line-height);
 	display: grid;
 	grid-template-columns: 25% 40% 25%;
 	grid-gap:30px;
-	grid-border: 1px;
+	grid-border: solid 1px;
 }
 
 /* Colonne gauche (logo) */
