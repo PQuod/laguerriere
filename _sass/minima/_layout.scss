@@ -61,7 +61,7 @@ header{
 	font-weight:bold;
 	font-style:italic;
 	color:var(--couleur3);
-	text-shadow: 0 0px 12px var(--couleur3), 0 0px 12px var(--couleur3), 0 0px 12px var(--couleur3);
+	text-shadow: 0 0px 20px var(--couleur2), 0 0px 12px var(--couleur2), 0 0px 12px var(--couleur2);
 }
 
 .guerriere a{
@@ -130,7 +130,7 @@ article{
     nav ul{
     	padding:20px;
     	margin:10px;
-    	border: var(--couleur3);
+    	border: solid var(--couleur2);
     }
 
     .active{
@@ -152,7 +152,7 @@ article{
 /* Le footer */
 
 footer{
-border-top: var(--couleur3);
+border-top: solid var(--couleur3);
 	position:fixed;
 	width:100%;
 	height:5%;
