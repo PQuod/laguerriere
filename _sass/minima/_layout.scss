@@ -2,19 +2,19 @@
 
 @font-face {
   font-family: "Ortica";
-  src: url("ortica-light.woff2") format("woff2");
-	url("ortica-light.woff") format("woff");
-	url("ortica-bold.woff") format("woff");
+  src: url("ortica-light.woff2") format("woff2"),
+	url("ortica-light.woff") format("woff"),
+	url("ortica-bold.woff") format("woff"),
        url("ortica-bold.woff2") format("woff2");
 }
 
 @font-face {
   font-family: "FT88";
   src: url("FT88-Regular.woff") format("woff"),
-	url("FT88-Regular.woff2") format("woff2");
-	url("FT88-italic.woff") format("woff");
-	url("FT88-italic.woff2") format("woff2");
-	url("FT88-bold.woff") format("woff");
+	url("FT88-Regular.woff2") format("woff2"),
+	url("FT88-italic.woff") format("woff"),
+	url("FT88-italic.woff2") format("woff2"),
+	url("FT88-bold.woff") format("woff"),
 	url("FT88-bold.woff2") format("woff2");
 	
 }
