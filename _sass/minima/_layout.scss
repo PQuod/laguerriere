@@ -58,6 +58,15 @@ ol, ul, li{
 	list-style:none;
 }
 
+form{
+	border:none;
+	text-align:center;
+}
+
+label{
+	width:100%;
+}
+
 input{
 	color:var(--couleur2);
 	background: none;
