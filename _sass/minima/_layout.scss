@@ -100,9 +100,9 @@ margin-bottom:var(--line-height);
 .home{
 	margin:0;
 	width:100%;
-	height: 100%;
+	height:100%;
 	display: grid;
-	grid-template-columns: 25% 40% 25%;
+	grid-template-columns: 1fr 3fr 1fr;
 	//grid-gap:30px;
 	border: solid 2px var(--couleur2);
 }
@@ -138,16 +138,19 @@ margin-bottom:var(--line-height);
 }
 
 .grid-carreaux{
+	border:none;
 display: grid;
-grid-template-columns: 32% 32% 32%;
-
+grid-template-columns: 1fr 1fr 1fr;
+	
+.grid img{
+height:100%;
+width:100%;	
 }
 
 
 article{
 	//border-left: solid 2px var(--couleur2);
-	//border-right: solid 2px var(--couleur2);
-	
+	border-bottom: solid 2px var(--couleur2);
 	padding:20px;
 	margin:0px;
 	color: var(--couleur2);
@@ -156,13 +159,9 @@ article{
 
 .article-grille{
   padding:0;
-  //border:none;
-border: solid 2px var(--couleur2);
+  border:none;
+//border: solid 2px var(--couleur2);
 }
-
-
-
-
 
 /* Colonne droite (menu) */
     /*Le menu */
@@ -171,6 +170,7 @@ background-color: var(--couleur5);
 	display:block;
 	width: 100%;
 }
+	
     nav ul{
 	    
 //background-color:var(--couleur5);
