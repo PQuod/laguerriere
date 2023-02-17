@@ -59,17 +59,20 @@ ol, ul, li{
 }
 
 input{
+	color:var(--couleur2);
 	background: none;
 	border:none;
 	border-bottom: 2px solid var(--couleur2);	
 }
 
 textarea{
+	color:var(--couleur2);
 	background:none;
 	border: 2px solid var(--couleur2);
 }
 
 input[type=submit], button{
+	color:var(--couleur2);
 	background: none;
 	border: 2px solid var(--couleur2);
 	padding:5px;
