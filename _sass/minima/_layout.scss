@@ -27,8 +27,8 @@
 --line-height:1.3em;
 --background-color:#fff6ee;
 --couleur1: #ffc1e1; //rose
---couleur2:#2fb3ad; //vert foncé
---couleur3:#006967; //vert
+--couleur2:#86dfda; //vert clair
+--couleur3:#006967; //vert foncé
 --couleur4:#fff6ee; //rose très clair
 --couleur5:#9ecfed; //bleu
 --couleur6:#fff5a6; //jaune
@@ -194,7 +194,8 @@ background-color: var(--couleur5);
     	padding-left:30px;
     	font-weight: 700;
         font-style: italic;
-        color: var(--couleur3);
+	font-height: 1.8em;
+        color: var(--couleur2);
         text-shadow: 0 0px 12px var(--couleur3);
         transform: rotate(16deg);
     }
