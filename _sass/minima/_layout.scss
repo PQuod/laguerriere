@@ -46,7 +46,6 @@ a{
 }
 
 p{
-color: var(--couleur2);
 margin-bottom:var(--line-height);
 	
 }
@@ -101,6 +100,7 @@ margin-bottom:var(--line-height);
 /* Le contenu */
 
 .home{
+	color: var(--couleur2);
 	margin:0;
 	width:100%;
 	min-height:100vh;
@@ -180,8 +180,8 @@ background-color: var(--couleur5);
 }
 	
     nav ul{
-	font-style: gothique;
-	font-height: 2em; 
+    font-style: italic;
+    font-size: 2em;
 	color:var(--couleur3);
     	padding:20px;
     	margin:10px;
