@@ -64,6 +64,7 @@ img{
 }
 
 body{
+
 background-color:var(--couleur1);
 line-height:var(--line-height);
 font-family:var(--font-family);
@@ -98,7 +99,7 @@ margin-bottom:var(--line-height);
 
 .home{
 	background-color: var(--couleur3);
-	margin:var(--line-height);
+	margin:0;
 	width:100%;
 	display: grid;
 	grid-template-columns: 25% 40% 25%;
