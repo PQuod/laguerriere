@@ -74,7 +74,8 @@ font-family: 'FT88', sans-serif;
 /* Header */
 
 header{
-	height:1vh;
+	position:fixed;
+	min-height:10vh;
 	background-color:var(--couleur1);
 	text-align:center;
 }
