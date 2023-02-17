@@ -5,7 +5,7 @@
   {% for category in site.categories %}
       <li>
         <!-- le fait que chaque catégorie soit un lien vers la page qui regroupera tous les posts de cette catégorie (_layouts/category.html) -->
-        <a href="/category/{{ category[0] | slugify }}">
+        <a href="/category/{{ category[0] | slugify }}" class="anav">
             <!-- Là j'ai fait un peu du shlag code pour rendre les noms des catégories plus lisibles (genre que ça soit "Qui sommes nous ?" qui apparaisse et non pas "quisommesnous" et que la catégorie sur la page de laquelle on se trouve prenne la classe .active et qu'elle ait donc un style différent) Y'a moyen de faire plus propre, je cleanerai ça quand on aura le temps -->
             {% if category[0] == 'artistes' %}
             <span {% if page.url == "/category/artistes/index.html" %}class="active"{% endif %}>Les artistes</span>
