@@ -8,7 +8,7 @@
 	url("/FT88-Italic.woff2") format("woff2"),
 
 	url("/FT88-Bold.woff") format("woff"),
-	url("/FT88-Bold.woff2") format("woff2")
+	url("/FT88-Bold.woff2") format("woff2"),
 	
 	url("/FT88-School.woff") format("woff"),
 	url("/FT88-School.woff2") format("woff2"),
@@ -66,7 +66,7 @@ input{
 
 textarea{
 	background:none;
-	border: 2px solid var(--couleur2):
+	border: 2px solid var(--couleur2);
 }
 
 input[type=submit], button{
