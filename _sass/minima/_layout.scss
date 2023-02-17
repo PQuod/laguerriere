@@ -40,7 +40,7 @@
 a{
   text-decoration: underline;
   text-decoration-color: var(--couleur1);
-  color:var(--couleur3);
+  color:var(--couleur2);
   font-family: 'FT88', sans-serif;
 	font-style: Gothique;
 }
@@ -177,7 +177,9 @@ background-color: var(--couleur5);
 	display:block;
 	width: 100%;
 }
-	
+.nav a{
+	color:var(--couleur3);
+}
     nav ul{
     font-style: italic;
     font-size: 2em;   
