@@ -24,6 +24,6 @@ Plusieurs événements ont ponctué l'exposition tout au long de sa durée.
 _En partenariat avec le GPAS Bretagne et la R22 Tout-Monde.  
 Avec le soutien du Géant des Beaux Arts et de la Générale de Bureautique._
 
-![](/imgs/1665236724685.jpg)
+![](/imgs/1665236724685.jpg)![](/imgs/dscf6850-copie.jpg)
 
 ![](/imgs/img_9013.jpg)![](/imgs/img_9012.jpg)![](/imgs/img_9014.jpg)![](/imgs/img_9113.jpg)![](/imgs/img_9112.jpg)![](/imgs/img_9115.jpg)![](/imgs/img_9124.jpg)![](/imgs/img_9116.jpg)![](/imgs/img_9117.jpg)![](/imgs/img_9134.jpg)![](/imgs/img_9120.jpg)![](/imgs/img_9122.jpg)![](/imgs/img_9118.jpg)![](/imgs/img_9123.jpg)![](/imgs/img_9121.jpg)![](/imgs/img_9119.jpg)![](/imgs/img_9136.jpg)![](/imgs/img_9135.jpg)![](/imgs/img_9055.jpg)![](/imgs/1665236724656.jpg)![](/imgs/img_9139.jpg)
