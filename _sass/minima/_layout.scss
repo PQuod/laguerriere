@@ -73,6 +73,7 @@ font-family: 'FT88', sans-serif;
 /* Header */
 
 header{
+	background-color: var(--couleur4);
 	margin-top:var(--line-height);
 	margin-bottom:var(--line-height);
 	text-align:center;
@@ -96,6 +97,7 @@ margin-bottom:var(--line-height);
 /* Le contenu */
 
 .home{
+	background-color: var(--couleur3);
 	margin:var(--line-height);
 	width:100%;
 	display: grid;
