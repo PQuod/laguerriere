@@ -74,9 +74,10 @@ font-family: 'FT88', sans-serif;
 /* Header */
 
 header{
-background-color:var(--couleur1);
-	padding-top:var(--line-height);
-	padding-bottom:var(--line-height);
+	height:5%;
+	background-color:var(--couleur1);
+	padding-top:2,6em;
+	padding-bottom:2,6em;
 	text-align:center;
 }
 
@@ -133,6 +134,7 @@ margin-bottom:var(--line-height);
 /* Colonne milieu (posts) */
 
 .home-contenu{
+	padding: 5%;
 	border-right: solid 2px var(--couleur2);
 	background-color: var(--couleur3);
 	margin-bottom:var(--line-height);
