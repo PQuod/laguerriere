@@ -74,7 +74,7 @@ font-family: 'FT88', sans-serif;
 /* Header */
 
 header{
-background-color:var(--background-color);
+background-color:var(--couleur1);
 	padding-top:var(--line-height);
 	padding-bottom:var(--line-height);
 	text-align:center;
@@ -98,13 +98,12 @@ margin-bottom:var(--line-height);
 /* Le contenu */
 
 .home{
-	background-color: var(--couleur3);
 	margin:0;
 	width:100%;
 	display: grid;
 	grid-template-columns: 25% 40% 25%;
 	grid-gap:30px;
-	grid-border: solid 1px;
+	grid-border: solid var(--couleur3);
 }
 
 /* Colonne gauche (logo) */
@@ -131,6 +130,8 @@ margin-bottom:var(--line-height);
 /* Colonne milieu (posts) */
 
 .home-contenu{
+	
+	background-color: var(--couleur3);
 	margin-bottom:var(--line-height);
 }
 
@@ -141,7 +142,7 @@ grid-template-columns: 32% 32% 32%;
 
 
 article{
-	border: solid 2px var(--couleur3);
+	border: solid 2px var(--couleur2);
 	padding:20px;
 	margin:10px;
 	color: var(--couleur2);
