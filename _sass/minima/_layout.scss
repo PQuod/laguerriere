@@ -58,9 +58,10 @@ ol, ul, li{
 	list-style:none;
 }
 
-form{
+fieldset{
 	border:none;
 	text-align:center;
+	padding:20px;
 }
 
 label{
@@ -71,7 +72,8 @@ input{
 	color:var(--couleur2);
 	background: none;
 	border:none;
-	border-bottom: 2px solid var(--couleur2);	
+	border-bottom: 2px solid var(--couleur2);
+	margin-bottom: var(--line-height);
 }
 
 textarea{
