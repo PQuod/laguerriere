@@ -177,8 +177,9 @@ background-color: var(--couleur5);
 }
 	
     nav ul{
-	    
-//background-color:var(--couleur5);
+	font-style: gothique;
+	font-height: 2em; 
+	color:var(--couleur3);
     	padding:20px;
     	margin:10px;
     	//border: solid 2px var(--couleur3);
@@ -196,7 +197,7 @@ background-color: var(--couleur5);
     	font-weight: 700;
         font-style: italic;
 	font-height: 1.8em;
-        color: var(--couleur2);
+        color: var(--couleur3);
         text-shadow: 0 0px 12px var(--couleur3);
         transform: rotate(16deg);
     }
