@@ -74,9 +74,13 @@ font-family: 'FT88', sans-serif;
 /* Header */
 
 header{
+	width: 100%;
 	min-height:10vh;
 	background-color:var(--couleur1);
 	text-align:center;
+	    padding-top: var(--line-height);
+	    padding-bottom: var(--line-height);
+	border-top: solid var(--couleur3);
 }
 
 .guerriere{
