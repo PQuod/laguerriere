@@ -74,12 +74,11 @@ font-family: 'FT88', sans-serif;
 
 header{
 	width: 100%;
-	min-height:10vh;
 	background-color:var(--couleur1);
 	text-align:center;
-	    padding-top: var(--line-height);
-	    padding-bottom: var(--line-height);
-	border-top: solid var(--couleur3);
+	padding-top: var(--line-height)+1vh;
+	padding-bottom: var(--line-height)+1vh;
+	border-bottom: solid var(--couleur3);
 }
 
 .guerriere{
@@ -106,10 +105,10 @@ margin-bottom:var(--line-height);
 	min-height:100vh;
 	display: grid;
 	grid-template-columns: 2fr 3fr 2fr;
-	grid-template-rows: 1fr 25fr 1fr;
+	grid-template-rows: 1fr;
 	bottom: 0;
 	//grid-gap:30px;
-	border: solid 2px var(--couleur2);
+	border: solid var(--couleur3);
 }
 
 /* Colonne gauche (logo) */
