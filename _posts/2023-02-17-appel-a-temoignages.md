@@ -15,27 +15,7 @@ Si vous avez des récits sur certaines modalités d'accueil qui vous ont déplue
 
 Tous les récits que nous récolterons seront bien sûr anonymisés avec le plus grand soin et nous enverrons à celleux qui nous ont joint leurs coordonnées le texte final avant parution pour que vous puissiez l'approuver. 
 
-Pour nous transmettre votre témoignage, vous pouvez nous l'envoyer par mail, à laguerrierecontact@protonmail.com ou par DM sur Instagram @laguerriere_galerie. Si vous souhaitez demeurer anonyme aussi auprès de l'équipe de La Guerrière, vous pouvez remplir le formulaire ci-dessous (mais nous ne serons pas en mesure de vous faire parvenir le texte pour relecture avant publication !)
+Pour nous transmettre votre témoignage, vous pouvez nous l'envoyer par mail, à laguerrierecontact@protonmail.com ou par DM sur Instagram @laguerriere_galerie.
 
 Nous vous remercions vivement pour votre aide, votre présence, vos vécus, vos expériences.
 
-<form target="_self" enctype="multipart/form-data" action="https://formkeep.com/f/c7772940135c" accept-charset="UTF-8" method="post">
-          <fieldset>
-            <h2>Envoyer un témoignage</h2>
-            <br>
-              <div id="Pseudo__div">
-                    <label title="required" for="Pseudo">Pseudo</label><br>
-                    <input type="text" name="Pseudo" id="Pseudo" required="required" />
-              </div>
-              <div id="T_moignage__div">
-                    <label title="required" for="T_moignage">Témoignage</label><br>
-                    <textarea name="Témoignage" id="T_moignage" required="required" col="30" rows="20">
-                    </textarea>
-               </div>
-          <br>
-          <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response" value="" autocomplete="off" />
-
-              <input type="submit" value="Envoyer" data-disable-with="Envoyer" />
-
-        </fieldset>
-</form>
