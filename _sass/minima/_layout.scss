@@ -74,10 +74,8 @@ font-family: 'FT88', sans-serif;
 /* Header */
 
 header{
-	height:5%;
+	height:1vh;
 	background-color:var(--couleur1);
-	padding-top:2,6em;
-	padding-bottom:2,6em;
 	text-align:center;
 }
 
@@ -104,6 +102,7 @@ margin-bottom:var(--line-height);
 	min-height:1vh;
 	display: grid;
 	grid-template-columns: 2fr 3fr 2fr;
+	grid-template-rows: 1fr 25fr 1fr;
 	bottom: 0;
 	//grid-gap:30px;
 	border: solid 2px var(--couleur2);
