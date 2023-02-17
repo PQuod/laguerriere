@@ -21,32 +21,21 @@ Nous vous remercions vivement pour votre aide, votre présence, vos vécus, vos 
 
 <form target="_self" enctype="multipart/form-data" action="https://formkeep.com/f/c7772940135c" accept-charset="UTF-8" method="post">
           <fieldset>
-            <center><h2>La Guerrière - Appel à témoignage</h2></center>
+            <h2>Envoyer un témoignage</h2>
             <br>
-              <div class="row">
-              <div class="form-group col-xs-12" id="Pseudo__div">
-              <label title="required" for="Pseudo">Pseudo *</label>
-              <input type="text" name="Pseudo" id="Pseudo" required="required" autofocus="autofocus" class="form-control" />
-          </div>
-          </div>
-              <div class="row">
-              <div class="form-group col-xs-12" id="T_moignage__div">
-              <label title="required" for="T_moignage">Témoignage *</label>
-              <textarea name="Témoignage" id="T_moignage" required="required" class="form-control">
-</textarea>
-                          </div>
-          </div>
+              <div id="Pseudo__div">
+                    <label title="required" for="Pseudo">Pseudo</label><br>
+                    <input type="text" name="Pseudo" id="Pseudo" required="required" />
+              </div>
+              <div id="T_moignage__div">
+                    <label title="required" for="T_moignage">Témoignage</label><br>
+                    <textarea name="Témoignage" id="T_moignage" required="required" col="30" rows="20">
+                    </textarea>
+               </div>
           <br>
-          <div style="opacity:0;position:absolute;top:0;left:-5000px;height:0;width:0">
-            <label for="subscribe_c7772940135c_41487"></label>
-            <input name="subscribe_c7772940135c_41487" value="" tabindex="-1" autocomplete="off"
-                   type="email" id="email_subscribe_c7772940135c_41487" placeholder="Your email here">
-          </div>
           <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response" value="" autocomplete="off" />
-          <div class="row">
-            <div class="col-xs-12">
-              <input type="submit" value="Envoyer" class="btn btn-block btn-primary" data-disable-with="Envoyer" />
-            </div>
-          </div>
+
+              <input type="submit" value="Envoyer" data-disable-with="Envoyer" />
+
         </fieldset>
 </form>
