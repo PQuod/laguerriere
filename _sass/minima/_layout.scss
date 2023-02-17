@@ -102,8 +102,8 @@ margin-bottom:var(--line-height);
 	width:100%;
 	display: grid;
 	grid-template-columns: 25% 40% 25%;
-	grid-gap:30px;
-	grid-border: solid var(--couleur3);
+	//grid-gap:30px;
+	border: solid 2px var(--couleur2);
 }
 
 /* Colonne gauche (logo) */
@@ -142,9 +142,11 @@ grid-template-columns: 32% 32% 32%;
 
 
 article{
-	border: solid 2px var(--couleur2);
+	//border-left: solid 2px var(--couleur2);
+	//border-right: solid 2px var(--couleur2);
+	border-top: solid 2px var(--couleur2);
 	padding:20px;
-	margin:10px;
+	margin:0px;
 	color: var(--couleur2);
 }
 
