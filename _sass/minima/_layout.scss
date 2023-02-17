@@ -42,7 +42,7 @@ a{
   text-decoration-color: var(--couleur1);
   color:var(--couleur2);
   font-family: 'FT88', sans-serif;
-	font-style: Gothique;
+	font-style: 'Gothique';
 }
 
 p{
@@ -59,11 +59,17 @@ ol, ul, li{
 }
 
 input{
-background: none;
-border-bottom: 2px solid var(--couleur2);	
+	background: none;
+	border:none;
+	border-bottom: 2px solid var(--couleur2);	
 }
 
-input[type=submit]{
+textarea{
+	background:none;
+	border: 2px solid var(--couleur2):
+}
+
+input[type=submit], button{
 	background: none;
 	border: 2px solid var(--couleur2);
 	padding:5px;
