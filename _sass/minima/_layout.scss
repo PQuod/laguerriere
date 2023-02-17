@@ -76,9 +76,9 @@ header{
 	width: 100%;
 	background-color:var(--couleur1);
 	text-align:center;
-	padding-top: var(--line-height)+1vh;
-	padding-bottom: var(--line-height)+1vh;
-	border-bottom: solid var(--couleur3);
+	padding-top: var(--line-height);
+	padding-bottom: var(--line-height);
+	border-bottom: solid 2px var(--couleur3);
 }
 
 .guerriere{
