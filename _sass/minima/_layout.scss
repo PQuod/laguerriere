@@ -26,10 +26,12 @@
 --font-size:1em;
 --line-height:1.3em;
 --background-color:#fff6ee;
---couleur1: #ffc1e1;
---couleur2:#2fb3ad;
---couleur3:#006967;
---couleur4:#fff6ee;
+--couleur1: #ffc1e1; //rose
+--couleur2:#2fb3ad; //vert foncé
+--couleur3:#006967; //vert
+--couleur4:#fff6ee; //rose très clair
+--couleur5:#9ecfed //bleu
+--couleur6:#fff5a6 //jaune
 --font-family: 'FT88', sans-serif;
 }
 
@@ -62,7 +64,7 @@ img{
 }
 
 body{
-background-color:var(--background-color);
+background-color:var(--couleur1);
 line-height:var(--line-height);
 font-family:var(--font-family);
 font-family: 'FT88', sans-serif;
