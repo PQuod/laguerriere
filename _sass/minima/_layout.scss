@@ -156,6 +156,8 @@ article{
 /* Colonne droite (menu) */
     /*Le menu */
     nav ul{
+	    
+background-color:var(--couleur5);
     	padding:20px;
     	margin:10px;
     	border: solid 2px var(--couleur3);
@@ -198,6 +200,8 @@ border-top: solid var(--couleur3);
 }
 
 .actu{
+	
+background-color:var(--couleur5);
 display:inline-block;
 white-space: nowrap;
 animation: defilement-rtl 30s infinite linear;
