@@ -103,7 +103,7 @@ margin-bottom:var(--line-height);
 	min-height:1vh;
 	display: grid;
 	grid-template-columns: 2fr 3fr 2fr;
-	//grid-template-rows: 1fr;
+	bottom: 0;
 	//grid-gap:30px;
 	border: solid 2px var(--couleur2);
 }
@@ -198,16 +198,13 @@ background-color: var(--couleur5);
         transform: rotate(16deg);
     }
 
-.typoinfos {
-bottom:0;
-background-color:var(--background-color);
-}
 
 /* Le footer */
 
 footer{
-border-top: solid var(--couleur3);
+	border-top: solid var(--couleur3);
 	padding-top: var(--line-height);
+	padding-bottom: var(--line-height);
 	position:fixed;
 	width:100%;
 	height:5%;
@@ -215,6 +212,10 @@ border-top: solid var(--couleur3);
 	background-color:var(--background-color);
 }
 
+.typoinfos {
+bottom:0;
+background-color:var(--background-color);
+}
 
 .rtl{
 	overflow:hidden;
