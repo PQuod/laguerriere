@@ -7,3 +7,5 @@ categories: podcasts
 Voici le second podcast de La Guerrière avec Clair Guetta et Vincent Naba autour de leur rapport à la magie, de leurs pouvoirs rêvés et de leur exposition : "A perte de vue, je vois clair". 
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FLaGuerri%C3%A8re%2Fa-perte-de-vue-je-vois-clair%2F" frameborder="0" ></iframe>
+
+[Écouter directement sur Mixcloud](https://www.mixcloud.com/LaGuerri%C3%A8re/a-perte-de-vue-je-vois-clair/)

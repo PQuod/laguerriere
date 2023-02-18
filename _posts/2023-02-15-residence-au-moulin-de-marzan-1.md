@@ -9,3 +9,5 @@ Réflexions, échanges et photos sonores des jours de résidence de La Guerrièr
 Episode 1
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FLaGuerri%C3%A8re%2Fla-guerri%C3%A8re-%C3%A0-marzan%2F" frameborder="0" ></iframe>
+
+[Écouter directement sur Mixcloud](https://www.mixcloud.com/LaGuerri%C3%A8re/la-guerri%C3%A8re-%C3%A0-marzan/)

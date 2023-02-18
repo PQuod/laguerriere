@@ -12,7 +12,6 @@ _Charlotte Beltzung_, _Alix Desaubliaux_, _Lucie Desaubliaux_ et _Ines Dobelle_ 
 [Charlotte Beltzung](https://charlottebeltzung.com/) /
 [Alix Desaubliaux](http://alixdesaubliaux.fr) /
 [Lucie Desaubliaux](http://luciedesaubliaux.fr/) / 
-
 [Ines Dobelle](http://www.inesdobelle.com/fadein.html)
 
 Ecrivez-nous à [laguerrierecontact@protonmail.com](laguerrierecontact@protonmail.com)

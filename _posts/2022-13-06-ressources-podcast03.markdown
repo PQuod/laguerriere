@@ -9,3 +9,5 @@ Le troisième podcast de *La Guerrière* au sujet de l'exposition Ghostgaze de G
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FLaGuerri%C3%A8re%2Fghostgaze-ft-gabrielle-descazes-baptiste-fertillet-manon-pretto%2F" frameborder="0" ></iframe>
 
+[Écouter directement sur Mixcloud](https://www.mixcloud.com/LaGuerri%C3%A8re/ghostgaze-ft-gabrielle-descazes-baptiste-fertillet-manon-pretto/)
+

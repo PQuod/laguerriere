@@ -10,3 +10,5 @@ Le premier podcast de *La Guerrière* au sujet de l'exposition One Million Queen
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FLaGuerri%C3%A8re%2Fone-million-queendoms%2F" frameborder="0" ></iframe>
 
 *ERRATA : Quand elle évoque Bunny Rogers, Remedios souhaite en fait parler de Goddess Bunny, une artiste et actrice trans & handi née en 1960 et décédée en 2021*
+
+[Écouter directement sur Mixcloud](https://www.mixcloud.com/LaGuerri%C3%A8re/one-million-queendoms/)

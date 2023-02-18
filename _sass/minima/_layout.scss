@@ -1,29 +1,29 @@
 
 @font-face {
   font-family: "FT88";
-  src: url("/FT88-Regular.woff") format("woff"),
-	url("/FT88-Regular.woff2") format("woff2"),
+  src: url("/assets/fonts/FT88-Regular.woff") format("woff"),
+	url("/assets/fonts/FT88-Regular.woff2") format("woff2"),
 
-	url("/FT88-Italic.woff") format("woff"),
-	url("/FT88-Italic.woff2") format("woff2"),
+	url("/assets/fonts/FT88-Italic.woff") format("woff"),
+	url("/assets/fonts/FT88-Italic.woff2") format("woff2"),
 
-	url("/FT88-Bold.woff") format("woff"),
-	url("/FT88-Bold.woff2") format("woff2"),
+	url("/assets/fonts/FT88-Bold.woff") format("woff"),
+	url("/assets/fonts/FT88-Bold.woff2") format("woff2"),
 	
-	url("/FT88-School.woff") format("woff"),
-	url("/FT88-School.woff2") format("woff2"),
+	url("/assets/fonts/FT88-School.woff") format("woff"),
+	url("/assets/fonts/FT88-School.woff2") format("woff2"),
 	  
-	url("/FT88-Expanded.woff") format("woff"),
-	url("/FT88-Expanded.woff2") format("woff2"),
+	url("/assets/fonts/FT88-Expanded.woff") format("woff"),
+	url("/assets/fonts/FT88-Expanded.woff2") format("woff2"),
 	  
-	url("/FT88-Gothique.woff") format("woff"),
-	url("/FT88-Gothique.woff2") format("woff2");
+	url("/assets/fonts/FT88-Gothique.woff") format("woff"),
+	url("/assets/fonts/FT88-Gothique.woff2") format("woff2");
 }
 
 
 /* Les variables */
 :root{
---font-size:1em;
+--font-size:1.3em;
 --line-height:1.3em;
 --background-color:#fff6ee;
 --couleur1: #ffc1e1; //rose
@@ -37,22 +37,27 @@
 
 /* Général */
 
+body{
+	overflow-x: hidden;
+}
+
 a{
-  text-decoration: underline;
-  text-decoration-color: var(--couleur1);
-  color:var(--couleur2);
-  font-family: 'FT88', sans-serif;
+	text-decoration: underline;
+	text-decoration-color: var(--couleur1);
+	color:var(--couleur2);
+	font-family: 'FT88', sans-serif;
 	font-style: 'Gothique';
 }
 
 p{
-margin-bottom:var(--line-height);
-	
+	font-size:var(--font-size);
+	margin-bottom:var(--line-height);
 }
 
 p:last-child{
-  margin-bottom:0px; /* Pour que le dernier paragraphe de chaque article n'ait pas de marge en-dessous */
+  	margin-bottom:0px; /* Pour que le dernier paragraphe de chaque article n'ait pas de marge en-dessous */
 }
+
 
 ol, ul, li{
 	list-style:none;
@@ -65,6 +70,7 @@ fieldset{
 }
 
 label{
+	font-size:var(--font-size);
 	width:100%;
 }
 
@@ -74,6 +80,7 @@ input{
 	border:none;
 	border-bottom: 2px solid var(--couleur2);
 	margin-bottom: var(--line-height);
+	font-size: var(--font-size);
 }
 
 textarea{
@@ -82,6 +89,7 @@ textarea{
 	border: 2px solid var(--couleur2);
 	width:80%;
 	text-align:left;
+	font-size: var(--font-size);
 }
 
 input[type=submit], button{
@@ -89,6 +97,7 @@ input[type=submit], button{
 	background: none;
 	border: 2px solid var(--couleur2);
 	padding:5px;
+	font-size: var(--font-size);
 }
 
 img{
@@ -106,7 +115,7 @@ font-family: 'FT88', sans-serif;
 /* Header */
 
 header{
-	width: 100%;
+	width:100%;
 	background-color:var(--couleur1);
 	text-align:center;
 	padding-top: var(--line-height);
@@ -115,18 +124,19 @@ header{
 }
 
 .guerriere{
-	font-size:calc(var(--font-size)*3);
-	
-font-family: 'FT88Goth', sans-serif;
+	font-size:calc(var(--font-size)*3);	
+	font-family: 'FT88Goth', sans-serif;
 	font-weight: bold;
 	color:var(--couleur3);
 	text-shadow: 0 0px 20px var(--couleur2), 0 0px 12px var(--couleur2), 0 0px 12px var(--couleur2);
+	margin-top: calc(var(--line-height)/2);
+	margin-bottom: calc(var(--line-height)/2);
 }
 
 .guerriere a{
-color:var(--couleur3);
-text-decoration:none;
-margin-bottom:var(--line-height);
+	color:var(--couleur3);
+	text-decoration:none;
+	margin-bottom:var(--line-height);
 }
 
 /* Le contenu */
@@ -193,7 +203,12 @@ article{
 	border-bottom: solid 2px var(--couleur2);
 	padding:20px;
 	margin:0px;
+	margin-bottom:var(--line-height);
 	color: var(--couleur2);
+}
+
+article h2{
+	margin-bottom:var(--line-height);
 }
 
 
@@ -206,40 +221,39 @@ article{
 /* Colonne droite (menu) */
     /*Le menu */
 nav {
-background-color: var(--couleur5);
+	background-color: var(--couleur5);
 	display:block;
 	width: 100%;
 }
+
 .anav{
 	color:var(--couleur3);
 }
 
-    nav ul{
-    font-style: italic;
+nav{
+	font-style: italic;
+	color: var(--couleur3);
+}
+nav ul{
     font-size: 2em;   
 	line-height: 1.8em;
-	color:var(--couleur3);
-    	padding:20px;
-    	margin:10px;
-    	//border: solid 2px var(--couleur3);
-    }
+    padding:20px;
+    margin:10px;
+}
 
-    .active{
-    	color:var(--couleur1);
-    	text-decoration:none;
-    }
+.active{
+	color:var(--couleur1);
+	text-decoration:none;
+}
 
-    /* Les infos pratiques */
-    nav p{
-    	margin-top:50%;
-    	padding-left:30px;
-    	font-weight: 700;
-        font-style: italic;
-	font-height: 1.8em;
-        color: var(--couleur3);
-        text-shadow: 0 0px 12px var(--couleur3);
-        transform: rotate(16deg);
-    }
+/* Les infos pratiques */
+nav p{
+	margin-top:50%;
+	padding-left:30px;
+	font-weight: 700;
+	text-shadow: 0 0px 12px var(--couleur3);
+	transform: rotate(16deg);
+}
 
 
 /* Le footer */
@@ -255,9 +269,9 @@ footer{
 	background-color:var(--background-color);
 }
 
-.typoinfos {
-bottom:0;
-background-color:var(--background-color);
+.typoinfo {
+	padding-left:20px;
+	background-color:var(--background-color);
 }
 
 .rtl{
@@ -265,15 +279,16 @@ background-color:var(--background-color);
 }
 
 .actu{
-display:inline-block;
-white-space: nowrap;
-animation: defilement-rtl 30s infinite linear;
-color: var(--couleur2);
-text-shadow: 0 0px 12px var(--couleur3);
-padding-right: 2em;
-padding-left: 100%;
-margin-top:0.5em;
-font-weight:700;
+	display:inline-block;
+	white-space: nowrap;
+	animation: defilement-rtl 30s infinite linear;
+	color: var(--couleur3);
+	text-shadow: 0 0px 12px var(--couleur3);
+	padding-right: 2em;
+	padding-left: 100%;
+	margin-top:0.5em;
+	font-weight:700;
+	font-size: var(--font-size);
 }
 
 @keyframes defilement-rtl {
