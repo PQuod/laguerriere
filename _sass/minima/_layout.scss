@@ -188,8 +188,12 @@ header{
 
 .grid-carreaux{
 	border:none;
-display: grid;
-grid-template-columns: 1fr 1fr 1fr;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+
+.grid-carreaux article{
+	margin-bottom:0;
 }
 	
 .grid-carreaux img{
@@ -235,10 +239,14 @@ nav{
 	color: var(--couleur3);
 }
 nav ul{
-    font-size: 1.8em;   
+    font-size: 1.5em;   
 	line-height: 1.8em;
     padding:20px;
     margin:10px;
+}
+
+nav li{
+	margin-bottom:calc(var(--line-height)/2);
 }
 
 .active{
@@ -252,6 +260,7 @@ nav p{
 	padding-left:30px;
 	font-weight: 700;
 	text-shadow: 0 0px 12px var(--couleur3);
+	rotate: 16deg;
 }
 
 
