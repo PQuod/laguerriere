@@ -23,6 +23,4 @@ Inscrivez-vous à notre newsletter :<br>
 </form>
 <br>
 
-<a>Écrivez-nous : 
-
-laguerrierecontact /a\\ protonmail.com</a>
+<a>Écrivez-nous : laguerrierecontact /a\\ protonmail.com</a>
