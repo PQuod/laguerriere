@@ -1,4 +1,1 @@
----
-
----
-L'équipe de La Guerrière est en résidence au Moulin de Marzan, à Caden, du 13 au 20 février. On vous prépare des petites choses avec amour <3
+La Guerrière et la Maison de la Poésie de Rennes organisent les ateliers "Les dragueures" avec sabrina soyer, du 22 au 26 mai 2023. Pour vous inscrire : laguerrierecontact@protonmail.com
